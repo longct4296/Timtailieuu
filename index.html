@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Template PANDA— Tìm & Tải Miễn Phí</title>
+<style>
+  :root {
+    --bg: #f9f8f5;
+    --white: #ffffff;
+    --text: #1a1a1a;
+    --muted: #666;
+    --border: #e0ddd6;
+    --green: #1D9E75;
+    --green-dark: #0F6E56;
+    --green-light: #E1F5EE;
+    --orange: #FA8922;
+    --radius: 12px;
+    --radius-sm: 8px;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+
+  /* ── HERO / SEARCH ── */
+  .hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 20px 40px;
+    text-align: center;
+    transition: padding 0.4s;
+  }
+  .hero.compact { padding: 32px 20px 24px; }
+
+  .logo {
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--green-dark);
+    margin-bottom: 28px;
+    text-transform: uppercase;
+  }
+  .hero.compact .logo { font-size: 13px; margin-bottom: 16px; }
+
+  .tagline {
+    font-size: 28px;
+    font-weight: 300;
+    color: var(--text);
+    margin-bottom: 8px;
+    letter-spacing: -0.02em;
+  }
+  .hero.compact .tagline { display: none; }
+
+  .sub {
+    font-size: 14px;
+    color: var(--muted);
+    margin-bottom: 32px;
+  }
+  .hero.compact .sub { display: none; }
+
+  .search-wrap {
+    width: 100%;
+    max-width: 560px;
+    position: relative;
+  }
+  .search-input {
+    width: 100%;
+    padding: 16px 52px 16px 20px;
+    font-size: 16px;
+    border: 1.5px solid var(--border);
+    border-radius: 100px;
+    background: var(--white);
+    color: var(--text);
+    outline: none;
+    transition: border-color 0.2s, box-shadow 0.2s;
+    -webkit-appearance: none;
+  }
+  .search-input:focus {
+    border-color: var(--green);
+    box-shadow: 0 0 0 3px rgba(29,158,117,0.12);
+  }
+  .search-icon {
+    position: absolute;
+    right: 18px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--muted);
+    pointer-events: none;
+  }
+  .search-icon svg { width: 20px; height: 20px; }
+
+  .hint {
+    margin-top: 12px;
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .hint span {
+    display: inline-block;
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 3px 10px;
+    margin: 3px 4px;
+    cursor: pointer;
+    transition: border-color 0.15s;
+  }
+  .hint span:hover { border-color: var(--green); color: var(--green); }
+
+  /* ── CATEGORY DROPDOWN ── */
+  .cat-wrap { position: relative; width: 100%; max-width: 560px; margin-top: 10px; }
+  .cat-btn { display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 10px 18px; font-size: 13px; border: 1.5px solid var(--border); border-radius: 100px; background: var(--white); color: var(--muted); cursor: pointer; transition: border-color 0.2s; user-select: none; }
+  .cat-btn:hover, .cat-btn.open { border-color: var(--green); color: var(--text); }
+  .cat-btn .arrow { transition: transform 0.2s; font-size: 10px; }
+  .cat-btn.open .arrow { transform: rotate(180deg); }
+  .cat-dropdown { display: none; position: absolute; top: calc(100% + 6px); left: 0; right: 0; background: var(--white); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; box-shadow: 0 8px 24px rgba(0,0,0,0.08); z-index: 50; }
+  .cat-dropdown.show { display: block; }
+  .cat-item { display: flex; align-items: center; gap: 10px; padding: 11px 18px; font-size: 13px; color: var(--text); cursor: pointer; transition: background 0.12s; border-bottom: 0.5px solid var(--border); }
+  .cat-item:last-child { border-bottom: none; }
+  .cat-item:hover { background: var(--green-light); }
+  .cat-item .cat-icon { font-size: 16px; width: 24px; text-align: center; }
+  .cat-item .cat-count { margin-left: auto; font-size: 11px; color: var(--muted); background: var(--border); padding: 1px 7px; border-radius: 20px; }
+  .cat-selected { color: var(--green-dark) !important; font-weight: 500; }
+
+  /* ── RESULTS ── */
+  .results {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 60px;
+  }
+  .results-label {
+    font-size: 12px;
+    color: var(--muted);
+    margin-bottom: 12px;
+    padding-left: 4px;
+  }
+  .result-item {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px 18px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    cursor: pointer;
+    transition: border-color 0.15s, transform 0.1s;
+  }
+  .result-item:hover {
+    border-color: var(--green);
+    transform: translateY(-1px);
+  }
+  .item-icon {
+    width: 42px;
+    height: 42px;
+    border-radius: var(--radius-sm);
+    background: var(--green-light);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    font-size: 18px;
+  }
+  .item-icon.pdf { background: #FAECE7; }
+  .item-icon.word { background: #E6F1FB; }
+  .item-info { flex: 1; }
+  .item-name { font-size: 14px; font-weight: 500; margin-bottom: 3px; }
+  .item-meta { font-size: 12px; color: var(--muted); }
+  .item-cat {
+    font-size: 11px;
+    background: var(--green-light);
+    color: var(--green-dark);
+    padding: 2px 8px;
+    border-radius: 20px;
+    white-space: nowrap;
+  }
+  .btn-dl {
+    padding: 8px 16px;
+    background: var(--green);
+    color: #fff;
+    border: none;
+    border-radius: 100px;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: background 0.15s;
+  }
+  .btn-dl:hover { background: var(--green-dark); }
+
+  .empty {
+    text-align: center;
+    padding: 48px 20px;
+    color: var(--muted);
+    font-size: 14px;
+  }
+  .empty strong { display: block; font-size: 32px; margin-bottom: 8px; }
+
+  /* ── POPUP OVERLAY ── */
+  .overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.45);
+    z-index: 999;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  .overlay.show { display: flex; }
+
+  .popup {
+    background: var(--white);
+    border-radius: var(--radius);
+    width: 100%;
+    max-width: 360px;
+    overflow: hidden;
+    animation: popIn 0.2s ease;
+  }
+  @keyframes popIn {
+    from { opacity: 0; transform: scale(0.95) translateY(8px); }
+    to   { opacity: 1; transform: scale(1) translateY(0); }
+  }
+
+  .popup-header {
+    background: var(--orange);
+    padding: 18px 20px 16px;
+    position: relative;
+  }
+  .popup-header .label {
+    font-size: 11px;
+    color: rgba(255,255,255,0.8);
+    margin-bottom: 4px;
+  }
+  .popup-header h3 {
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 1.4;
+  }
+  .popup-close {
+    position: absolute;
+    top: 14px;
+    right: 16px;
+    background: rgba(255,255,255,0.2);
+    border: none;
+    color: #fff;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    font-size: 14px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .popup-body { padding: 18px 20px 0; }
+  .popup-body p {
+    font-size: 13px;
+    color: var(--muted);
+    line-height: 1.6;
+    margin-bottom: 16px;
+  }
+
+  .aff-btn {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 100%;
+    padding: 13px 16px;
+    background: #fff7f0;
+    border: 1.5px solid var(--orange);
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    margin-bottom: 16px;
+    transition: background 0.15s;
+    text-decoration: none;
+  }
+  .aff-btn:hover { background: #fff0e0; }
+  .aff-logo {
+    width: 36px;
+    height: 36px;
+    border-radius: 8px;
+    background: var(--orange);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+  }
+  .aff-text { flex: 1; text-align: left; }
+  .aff-text strong { display: block; font-size: 13px; color: var(--text); }
+  .aff-text span { font-size: 11px; color: var(--muted); }
+  .aff-arrow { color: var(--orange); font-size: 18px; }
+
+  .popup-footer {
+    padding: 0 20px 20px;
+  }
+  .btn-confirm {
+    width: 100%;
+    padding: 12px;
+    font-size: 14px;
+    font-weight: 500;
+    background: var(--green);
+    color: #fff;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+  .btn-confirm:hover { background: var(--green-dark); }
+
+  /* ── POPUP MỞ BẰNG TRÌNH DUYỆT ── */
+  .browser-header {
+    background: var(--green);
+    padding: 18px 20px 16px;
+    position: relative;
+  }
+  .browser-header .label {
+    font-size: 11px;
+    color: rgba(255,255,255,0.8);
+    margin-bottom: 4px;
+  }
+  .browser-header h3 {
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 1.4;
+  }
+
+  .copy-link-box {
+    background: #f5f5f5;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 12px 14px;
+    font-size: 12px;
+    word-break: break-all;
+    color: #333;
+    margin-bottom: 12px;
+    line-height: 1.5;
+    user-select: all;
+  }
+
+  .steps {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 16px;
+  }
+  .step {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    font-size: 13px;
+    color: var(--text);
+    line-height: 1.5;
+  }
+  .step-num {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: var(--green-light);
+    color: var(--green-dark);
+    font-size: 11px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+
+  /* ── TOAST ── */
+  .toast {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%) translateY(60px);
+    background: #1a1a1a;
+    color: #fff;
+    padding: 10px 22px;
+    border-radius: 100px;
+    font-size: 13px;
+    z-index: 9999;
+    transition: transform 0.3s ease, opacity 0.3s;
+    opacity: 0;
+    pointer-events: none;
+    white-space: nowrap;
+    max-width: calc(100vw - 40px);
+    text-align: center;
+  }
+  .toast.show {
+    transform: translateX(-50%) translateY(0);
+    opacity: 1;
+  }
+</style>
+</head>
+<body>
+
+<div class="hero" id="hero">
+  <div class="logo">Kho Template</div>
+  <h1 class="tagline">Tìm tài liệu bạn cần</h1>
+  <p class="sub">Kho template miễn phí đa ngành nghề — menu, nhân sự, tài chính, vận hành, học ngôn ngữ</p>
+
+  <div class="search-wrap">
+    <input
+      class="search-input"
+      id="searchInput"
+      type="text"
+      placeholder="Nhập tên template... vd: Mẫu báo cáo, doanh thu, học tiếng anh, template content"
+      autocomplete="off"
+    />
+    <span class="search-icon">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+      </svg>
+    </span>
+  </div>
+
+  <div class="hint">
+    Thử tìm:
+    <span onclick="quickSearch('menu')">menu</span>
+    <span onclick="quickSearch('chấm công')">chấm công</span>
+    <span onclick="quickSearch('doanh thu')">doanh thu</span>
+    <span onclick="quickSearch('khai trương')">khai trương</span>
+  </div>
+
+  <div class="cat-wrap" id="catWrap">
+    <button class="cat-btn" id="catBtn" onclick="toggleCat()">
+      <span id="catLabel">📂 Duyệt theo danh mục</span>
+      <span class="arrow">▼</span>
+    </button>
+    <div class="cat-dropdown" id="catDropdown"></div>
+  </div>
+</div>
+
+<div class="results" id="results"></div>
+
+<!-- POPUP TẢI FILE (trình duyệt thường) -->
+<div class="overlay" id="overlay">
+  <div class="popup">
+    <div class="popup-header">
+      <div class="label">📦 Bạn đang tải</div>
+      <h3 id="popupTitle">—</h3>
+      <button class="popup-close" onclick="closePopup()">✕</button>
+    </div>
+    <div class="popup-body">
+      <p>Lưu ý Mở tài liệu bằng trình duyệt để không bị gián đoạn. Tài liệu này miễn phí 100%. Bạn có thể ủng hộ mình bằng cách ghé xem 1 sản phẩm trên Shopee trước nhé 🙏</p>
+      <a class="aff-btn" id="affLink" href="#" target="_blank" rel="noopener">
+        <div class="aff-logo">🛒</div>
+        <div class="aff-text">
+          <strong>Xem ngay trên Shopee</strong>
+        </div>
+        <span class="aff-arrow">→</span>
+      </a>
+    </div>
+    <div class="popup-footer">
+      <button class="btn-confirm" onclick="doDownloadFromAff()">Xem Shopee → Tải file</button>
+    </div>
+  </div>
+</div>
+
+<!-- POPUP YÊU CẦU MỞ BẰNG TRÌNH DUYỆT (in-app browser) -->
+<div class="overlay" id="overlayBrowser">
+  <div class="popup">
+    <div class="browser-header">
+      <div class="label">⚠️ Không thể tải từ đây</div>
+      <h3>Mở bằng Chrome hoặc Safari</h3>
+      <button class="popup-close" onclick="closeBrowserPopup()">✕</button>
+    </div>
+    <div class="popup-body">
+      <p>Trình duyệt trong app (Facebook, TikTok, Zalo...) không hỗ trợ tải file. Làm theo 3 bước dưới nhé:</p>
+      <div class="steps">
+        <div class="step">
+          <div class="step-num">1</div>
+          <span>Nhấn <b>Copy link</b> bên dưới</span>
+        </div>
+        <div class="step">
+          <div class="step-num">2</div>
+          <span>Mở <b>Chrome</b> hoặc <b>Safari</b> trên điện thoại</span>
+        </div>
+        <div class="step">
+          <div class="step-num">3</div>
+          <span>Dán link vào thanh địa chỉ và tải file bình thường</span>
+        </div>
+      </div>
+      <div class="copy-link-box" id="copyLinkBox"></div>
+    </div>
+    <div class="popup-footer">
+      <button class="btn-confirm" onclick="copyPageLink()">📋 Copy link trang này</button>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast">⬇ Đang mở file tải xuống...</div>
+
+<script>
+const AFFILIATE_URL = 'https://s.shopee.vn/8pj7GHmhQx';
+
+let templates = [];
+let currentItem = null;
+
+const fileIcons = { Excel: '📊', PDF: '📄', Word: '📝' };
+const fileBg    = { Excel: '', PDF: 'pdf', Word: 'word' };
+
+// ── DETECT IN-APP BROWSER ──
+function isInAppBrowser() {
+  const ua = navigator.userAgent || '';
+  return /FBAN|FBAV|Instagram|TikTok|ZaloApp|Line\/|Twitter|Snapchat/i.test(ua)
+      || (ua.includes('wv') && ua.includes('Android'));
+}
+
+async function loadTemplates() {
+  try {
+    const res = await fetch('./templates.json?' + Date.now());
+    templates = await res.json();
+  } catch(e) {
+    templates = [];
+  }
+  return templates;
+}
+
+function normalize(str) {
+  return str.toLowerCase()
+    .replace(/đ/g, 'd')
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+}
+
+function search(query) {
+  if (!query.trim()) return [];
+  const words = normalize(query).split(/\s+/).filter(Boolean);
+  return templates.filter(t => {
+    const haystack = normalize(
+      t.name + ' ' + (t.keywords||[]).join(' ') + ' ' + t.category
+    );
+    return words.every(w => haystack.includes(w));
+  });
+}
+
+function renderResults(items, query) {
+  const el = document.getElementById('results');
+  document.getElementById('hero').classList.add('compact');
+
+  if (!query.trim()) {
+    el.innerHTML = '';
+    document.getElementById('hero').classList.remove('compact');
+    return;
+  }
+
+  if (!items.length) {
+    el.innerHTML = `<div class="empty"><strong>🔍</strong>Không tìm thấy "<b>${query}</b>"<br>Thử từ khác như: menu, nhân viên, doanh thu...</div>`;
+    return;
+  }
+
+  el.innerHTML = `<div class="results-label">${items.length} kết quả cho "<b>${query}</b>"</div>` +
+    items.map(t => `
+      <div class="result-item" onclick="openPopup(${t.id})">
+        <div class="item-icon ${fileBg[t.type]||''}">${fileIcons[t.type]||'📁'}</div>
+        <div class="item-info">
+          <div class="item-name">${t.name}</div>
+          <div class="item-meta">${t.type} · ${t.size}</div>
+        </div>
+        <span class="item-cat">${t.category}</span>
+        <button class="btn-dl" onclick="event.stopPropagation();openPopup(${t.id})">Tải về</button>
+      </div>
+    `).join('');
+}
+
+// ── MỞ POPUP ──
+function openPopup(id) {
+  currentItem = templates.find(t => t.id === id);
+  if (!currentItem) return;
+
+  // Nếu đang dùng in-app browser → hiện popup hướng dẫn mở ngoài
+  if (isInAppBrowser()) {
+    document.getElementById('copyLinkBox').textContent = window.location.href;
+    document.getElementById('overlayBrowser').classList.add('show');
+    return;
+  }
+
+  // Trình duyệt thường → hiện popup tải file bình thường
+  document.getElementById('popupTitle').textContent = currentItem.name;
+  document.getElementById('affLink').href = AFFILIATE_URL;
+  document.getElementById('overlay').classList.add('show');
+}
+
+function closePopup() {
+  document.getElementById('overlay').classList.remove('show');
+}
+
+function closeBrowserPopup() {
+  document.getElementById('overlayBrowser').classList.remove('show');
+}
+
+// ── COPY LINK TRANG ──
+function copyPageLink() {
+  const link = window.location.href;
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(link).then(() => {
+      showToast('✅ Đã copy! Dán vào Chrome hoặc Safari');
+    }).catch(() => fallbackCopy(link));
+  } else {
+    fallbackCopy(link);
+  }
+}
+
+function fallbackCopy(text) {
+  const el = document.createElement('textarea');
+  el.value = text;
+  el.style.position = 'fixed';
+  el.style.opacity = '0';
+  document.body.appendChild(el);
+  el.focus();
+  el.select();
+  try {
+    document.execCommand('copy');
+    showToast('✅ Đã copy! Dán vào Chrome hoặc Safari');
+  } catch(e) {
+    showToast('Hãy copy link thủ công nhé');
+  }
+  document.body.removeChild(el);
+}
+
+// ── TẢI FILE (trình duyệt thường) ──
+function doDownloadFromAff() {
+  // Mở Shopee trong tab mới — được phép vì nằm ngay trong user gesture
+  window.open(AFFILIATE_URL, '_blank');
+  closePopup();
+  // Redirect tab hiện tại sang Drive — không bao giờ bị chặn
+  if (currentItem) {
+    window.location.href = currentItem.drive_url;
+  }
+  showToast('⬇ Đang mở file tải xuống...');
+}
+
+// ── TOAST ──
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg || '⬇ Đang mở file tải xuống...';
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2800);
+}
+
+function quickSearch(kw) {
+  const input = document.getElementById('searchInput');
+  input.value = kw;
+  input.dispatchEvent(new Event('input'));
+  input.focus();
+}
+
+// Đóng overlay khi click nền
+document.getElementById('overlay').addEventListener('click', e => {
+  if (e.target === document.getElementById('overlay')) closePopup();
+});
+document.getElementById('overlayBrowser').addEventListener('click', e => {
+  if (e.target === document.getElementById('overlayBrowser')) closeBrowserPopup();
+});
+
+let debounce;
+document.getElementById('searchInput').addEventListener('input', e => {
+  clearTimeout(debounce);
+  debounce = setTimeout(() => {
+    renderResults(search(e.target.value), e.target.value);
+  }, 200);
+});
+
+// ── CATEGORY DROPDOWN ──
+const CATEGORIES = [
+  { name: 'Tất cả', icon: '🗂' },
+  { name: 'Menu & Giá', icon: '☕' },
+  { name: 'Vận hành', icon: '📧' },
+  { name: 'Template marketing', icon: '📚' },
+  { name: 'Edit Video', icon: '🎬' },
+  { name: 'Nhân sự', icon: '👥' },
+  { name: 'Học tiếng trung', icon: '🇨🇳' },
+  { name: 'Học tiếng anh', icon: '📣' },
+  { name: 'Plan du lịch', icon: '✈' },
+  { name: 'Khác', icon: '📁' },
+];
+
+function buildCatMenu() {
+  const dd = document.getElementById('catDropdown');
+  dd.innerHTML = CATEGORIES.map(c => {
+    const count = c.name === 'Tất cả'
+      ? templates.length
+      : templates.filter(t => t.category === c.name).length;
+    if (c.name !== 'Tất cả' && count === 0) return '';
+    return `<div class="cat-item" onclick="selectCat('${c.name}','${c.icon}')">
+      <span class="cat-icon">${c.icon}</span>
+      <span>${c.name}</span>
+      <span class="cat-count">${count}</span>
+    </div>`;
+  }).join('');
+}
+
+function toggleCat() {
+  document.getElementById('catDropdown').classList.toggle('show');
+  document.getElementById('catBtn').classList.toggle('open');
+}
+
+function selectCat(name, icon) {
+  document.getElementById('catDropdown').classList.remove('show');
+  document.getElementById('catBtn').classList.remove('open');
+  const label = document.getElementById('catLabel');
+  if (name === 'Tất cả') {
+    label.textContent = '📂 Duyệt theo danh mục';
+    label.className = '';
+    document.getElementById('searchInput').value = '';
+    document.getElementById('results').innerHTML = '';
+    document.getElementById('hero').classList.remove('compact');
+    return;
+  }
+  label.textContent = icon + ' ' + name;
+  label.className = 'cat-selected';
+  document.getElementById('searchInput').value = '';
+  renderResults(templates.filter(t => t.category === name), name);
+}
+
+document.addEventListener('click', e => {
+  const wrap = document.getElementById('catWrap');
+  if (wrap && !wrap.contains(e.target)) {
+    document.getElementById('catDropdown').classList.remove('show');
+    document.getElementById('catBtn').classList.remove('open');
+  }
+});
+
+loadTemplates().then(() => {
+  buildCatMenu();
+  const params = new URLSearchParams(window.location.search);
+  const q = params.get('q');
+  if (q) {
+    const input = document.getElementById('searchInput');
+    input.value = q;
+    renderResults(search(q), q);
+  }
+});
+</script>
+</body>
+</html>
