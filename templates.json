@@ -548,6 +548,15 @@
     "category": "Học tiếng anh",
     "drive_url": "https://docs.google.com/spreadsheets/d/1fc2eKrk431PPKtebbHNv8s0X3jMzKQaTOxEw1PxM9PY/edit"
   },
+                                                                                                            {
+    "id": 70,
+    "name": "Bảng thu chi du lịch",
+    "keywords": ["bangthuchidulich"],
+    "type": "Drive",
+    "size": "89 KB",
+    "category": "Template Du lịch",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1RJP9if66RWsRIoSDPGoJ9Yc3xIVMmFiv-x2BDI86bcE/edit?gid=960523776#gid=960523776"
+  },
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
