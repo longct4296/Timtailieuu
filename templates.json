@@ -575,6 +575,15 @@
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/0B55XkHbegAC1dWNwLTJqR3pKaWM?resourcekey=0-_QDVOEwg6frEbZ63FsnhNA"
   },
+                                                                                                                  {
+    "id": 73,
+    "name": "Plan đi thái",
+    "keywords": ["plandithai"],
+    "type": "Drive",
+    "size": "89 KB",
+    "category": "Plan du lịch",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1V4IZ9etX-dsKRJP2uABrDIWF5gA4YIIRiH7hvwedysA/edit?gid=1131123647#gid=1131123647"
+  },
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
