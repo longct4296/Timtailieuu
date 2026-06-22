@@ -316,39 +316,65 @@
   }
   .btn-confirm:hover { background: var(--green-dark); }
 
-  /* ── OVERLAY ĐẾM NGƯỢC (IN-APP) ── */
-  .overlay-inapp {
-    display: none;
-    position: fixed;
-    inset: 0;
-    background: rgba(249,248,245,0.97);
-    z-index: 9999;
+  /* ── POPUP MỞ BẰNG TRÌNH DUYỆT ── */
+  .browser-header {
+    background: var(--green);
+    padding: 18px 20px 16px;
+    position: relative;
+  }
+  .browser-header .label {
+    font-size: 11px;
+    color: rgba(255,255,255,0.8);
+    margin-bottom: 4px;
+  }
+  .browser-header h3 {
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+    line-height: 1.4;
+  }
+
+  .copy-link-box {
+    background: #f5f5f5;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 12px 14px;
+    font-size: 12px;
+    word-break: break-all;
+    color: #333;
+    margin-bottom: 12px;
+    line-height: 1.5;
+    user-select: all;
+  }
+
+  .steps {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 16px;
+  }
+  .step {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    font-size: 13px;
+    color: var(--text);
+    line-height: 1.5;
+  }
+  .step-num {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: var(--green-light);
+    color: var(--green-dark);
+    font-size: 11px;
+    font-weight: 600;
+    display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
-    gap: 14px;
-    text-align: center;
-    padding: 32px 24px;
+    flex-shrink: 0;
+    margin-top: 1px;
   }
-  .overlay-inapp.show { display: flex; }
-  .inapp-spinner {
-    width: 52px; height: 52px;
-    border: 3px solid var(--border);
-    border-top-color: var(--green);
-    border-radius: 50%;
-    animation: spin 0.8s linear infinite;
-  }
-  @keyframes spin { to { transform: rotate(360deg); } }
-  .inapp-title { font-size: 18px; font-weight: 600; color: var(--text); }
-  .inapp-count { font-size: 2.5rem; font-weight: 700; color: var(--green); line-height: 1; }
-  .inapp-progress {
-    width: 100%; max-width: 260px; height: 4px;
-    background: var(--border); border-radius: 4px; overflow: hidden;
-  }
-  .inapp-fill { height: 100%; background: var(--green); border-radius: 4px; width: 0%; }
-  .inapp-desc { font-size: 13px; color: var(--muted); line-height: 1.6; }
-  .inapp-shopee { font-size: 12px; color: var(--muted); display: flex; align-items: center; gap: 6px; }
-  .shopee-dot { width: 7px; height: 7px; background: #ee4d2d; border-radius: 50%; }
 
   /* ── TOAST ── */
   .toast {
@@ -440,16 +466,35 @@
   </div>
 </div>
 
-<!-- OVERLAY ĐẾM NGƯỢC CHO IN-APP BROWSER -->
-<div class="overlay-inapp" id="overlayInApp">
-  <div class="inapp-spinner"></div>
-  <div class="inapp-title">Đang chuẩn bị file...</div>
-  <div class="inapp-count" id="inAppCountdown">5</div>
-  <div class="inapp-progress"><div class="inapp-fill" id="inAppFill"></div></div>
-  <p class="inapp-desc">File sẽ tự động mở sau vài giây.<br>Trong lúc chờ, hãy xem thêm<br>gợi ý sản phẩm trên Shopee nhé 🙏</p>
-  <div class="inapp-shopee">
-    <div class="shopee-dot"></div>
-    Đang mở Shopee...
+<!-- POPUP YÊU CẦU MỞ BẰNG TRÌNH DUYỆT (in-app browser) -->
+<div class="overlay" id="overlayBrowser">
+  <div class="popup">
+    <div class="browser-header">
+      <div class="label">⚠️ Không thể tải từ đây</div>
+      <h3>Mở bằng Chrome hoặc Safari</h3>
+      <button class="popup-close" onclick="closeBrowserPopup()">✕</button>
+    </div>
+    <div class="popup-body">
+      <p>Trình duyệt trong app (Facebook, TikTok, Zalo...) không hỗ trợ tải file. Làm theo 3 bước dưới nhé:</p>
+      <div class="steps">
+        <div class="step">
+          <div class="step-num">1</div>
+          <span>Nhấn <b>Copy link</b> bên dưới</span>
+        </div>
+        <div class="step">
+          <div class="step-num">2</div>
+          <span>Mở <b>Chrome</b> hoặc <b>Safari</b> trên điện thoại</span>
+        </div>
+        <div class="step">
+          <div class="step-num">3</div>
+          <span>Dán link vào thanh địa chỉ và tải file bình thường</span>
+        </div>
+      </div>
+      <div class="copy-link-box" id="copyLinkBox"></div>
+    </div>
+    <div class="popup-footer">
+      <button class="btn-confirm" onclick="copyPageLink()">📋 Copy link trang này</button>
+    </div>
   </div>
 </div>
 
@@ -532,10 +577,10 @@ function openPopup(id) {
   currentItem = templates.find(t => t.id === id);
   if (!currentItem) return;
 
-  // Nếu đang dùng in-app browser → hiện overlay TRƯỚC, rồi mới mở Shopee
+  // Nếu đang dùng in-app browser → hiện popup hướng dẫn mở ngoài
   if (isInAppBrowser()) {
-    showInAppOverlay(currentItem.drive_url);
-    window.open(AFFILIATE_URL, '_blank');
+    document.getElementById('copyLinkBox').textContent = window.location.href;
+    document.getElementById('overlayBrowser').classList.add('show');
     return;
   }
 
@@ -547,6 +592,39 @@ function openPopup(id) {
 
 function closePopup() {
   document.getElementById('overlay').classList.remove('show');
+}
+
+function closeBrowserPopup() {
+  document.getElementById('overlayBrowser').classList.remove('show');
+}
+
+// ── COPY LINK TRANG ──
+function copyPageLink() {
+  const link = window.location.href;
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(link).then(() => {
+      showToast('✅ Đã copy! Dán vào Chrome hoặc Safari');
+    }).catch(() => fallbackCopy(link));
+  } else {
+    fallbackCopy(link);
+  }
+}
+
+function fallbackCopy(text) {
+  const el = document.createElement('textarea');
+  el.value = text;
+  el.style.position = 'fixed';
+  el.style.opacity = '0';
+  document.body.appendChild(el);
+  el.focus();
+  el.select();
+  try {
+    document.execCommand('copy');
+    showToast('✅ Đã copy! Dán vào Chrome hoặc Safari');
+  } catch(e) {
+    showToast('Hãy copy link thủ công nhé');
+  }
+  document.body.removeChild(el);
 }
 
 // ── TẢI FILE (trình duyệt thường) ──
@@ -579,6 +657,9 @@ function quickSearch(kw) {
 // Đóng overlay khi click nền
 document.getElementById('overlay').addEventListener('click', e => {
   if (e.target === document.getElementById('overlay')) closePopup();
+});
+document.getElementById('overlayBrowser').addEventListener('click', e => {
+  if (e.target === document.getElementById('overlayBrowser')) closeBrowserPopup();
 });
 
 let debounce;
@@ -648,34 +729,6 @@ document.addEventListener('click', e => {
     document.getElementById('catBtn').classList.remove('open');
   }
 });
-
-// ── OVERLAY ĐẾM NGƯỢC CHO IN-APP BROWSER ──
-function showInAppOverlay(driveUrl) {
-  const overlay  = document.getElementById('overlayInApp');
-  const countEl  = document.getElementById('inAppCountdown');
-  const fill     = document.getElementById('inAppFill');
-
-  overlay.classList.add('show');
-
-  let secs = 5;
-  countEl.textContent = secs;
-  fill.style.width = '0%';
-  requestAnimationFrame(() => {
-    requestAnimationFrame(() => {
-      fill.style.transition = 'width 5s linear';
-      fill.style.width = '100%';
-    });
-  });
-
-  const timer = setInterval(() => {
-    secs--;
-    countEl.textContent = secs;
-    if (secs <= 0) {
-      clearInterval(timer);
-      window.location.href = driveUrl;
-    }
-  }, 1000);
-}
 
 loadTemplates().then(() => {
   buildCatMenu();
