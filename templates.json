@@ -638,6 +638,15 @@
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/1vOaNTB8C6CtlWtJ-7UrgAwpgtg4tD6iv"
   },
+                                                                                                                                {
+    "id": 80,
+    "name": "Plan đi Ninh Bình",
+    "keywords": ["plandininhbinh"],
+    "type": "Drive",
+    "size": "89 KB",
+    "category": "Plan du lịch",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1u-jxhgEPUAyov2wNd_fbcd9Glx792RIgc-cVgWonRTo/edit?gid=1149466364#gid=1149466364"
+  },
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
