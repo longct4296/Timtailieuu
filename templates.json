@@ -647,6 +647,42 @@
     "category": "Plan du lịch",
     "drive_url": "https://docs.google.com/spreadsheets/d/1u-jxhgEPUAyov2wNd_fbcd9Glx792RIgc-cVgWonRTo/edit?gid=1149466364#gid=1149466364"
   },
+                                                                                                                                  {
+    "id": 82,
+    "name": "IELTS 4.0-5.0",
+    "keywords": ["ielts4den5"],
+    "type": "Drive",
+    "size": "89 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/15pnRGwjCt7kjOcMUAmvRhDh0jUoZnNUU"
+  },
+                                                                                                                                    {
+    "id": 83,
+    "name": "IELTS 5.0-6.5",
+    "keywords": ["ielts5den6.5"],
+    "type": "Drive",
+    "size": "89 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1kevdwoxy_n1Gl4ZMT5ZJrotdO2_BC12-"
+  },
+                                                                                                                                    {
+    "id": 84,
+    "name": "IELTS 8.5",
+    "keywords": ["ielts8.5"],
+    "type": "Drive",
+    "size": "89 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1PRmJgR0C2w3HnakB5DGq4bmQNA8-OUfT"
+  },
+                                                                                                                                    {
+    "id": 85,
+    "name": "IELTS 6.5-7.5",
+    "keywords": ["ielts6den7.5"],
+    "type": "Drive",
+    "size": "89 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/14eW-y8k9CMx6SWo2J5Gmkwa2olI32EjV"
+  },
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
