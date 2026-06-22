@@ -316,6 +316,40 @@
   }
   .btn-confirm:hover { background: var(--green-dark); }
 
+  /* ── OVERLAY ĐẾM NGƯỢC (IN-APP) ── */
+  .overlay-inapp {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(249,248,245,0.97);
+    z-index: 9999;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 14px;
+    text-align: center;
+    padding: 32px 24px;
+  }
+  .overlay-inapp.show { display: flex; }
+  .inapp-spinner {
+    width: 52px; height: 52px;
+    border: 3px solid var(--border);
+    border-top-color: var(--green);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .inapp-title { font-size: 18px; font-weight: 600; color: var(--text); }
+  .inapp-count { font-size: 2.5rem; font-weight: 700; color: var(--green); line-height: 1; }
+  .inapp-progress {
+    width: 100%; max-width: 260px; height: 4px;
+    background: var(--border); border-radius: 4px; overflow: hidden;
+  }
+  .inapp-fill { height: 100%; background: var(--green); border-radius: 4px; width: 0%; }
+  .inapp-desc { font-size: 13px; color: var(--muted); line-height: 1.6; }
+  .inapp-shopee { font-size: 12px; color: var(--muted); display: flex; align-items: center; gap: 6px; }
+  .shopee-dot { width: 7px; height: 7px; background: #ee4d2d; border-radius: 50%; }
+
   /* ── TOAST ── */
   .toast {
     position: fixed;
@@ -406,6 +440,19 @@
   </div>
 </div>
 
+<!-- OVERLAY ĐẾM NGƯỢC CHO IN-APP BROWSER -->
+<div class="overlay-inapp" id="overlayInApp">
+  <div class="inapp-spinner"></div>
+  <div class="inapp-title">Đang chuẩn bị file...</div>
+  <div class="inapp-count" id="inAppCountdown">5</div>
+  <div class="inapp-progress"><div class="inapp-fill" id="inAppFill"></div></div>
+  <p class="inapp-desc">File sẽ tự động mở sau vài giây.<br>Trong lúc chờ, hãy xem thêm<br>gợi ý sản phẩm trên Shopee nhé 🙏</p>
+  <div class="inapp-shopee">
+    <div class="shopee-dot"></div>
+    Đang mở Shopee...
+  </div>
+</div>
+
 <div class="toast" id="toast">⬇ Đang mở file tải xuống...</div>
 
 <script>
@@ -485,10 +532,10 @@ function openPopup(id) {
   currentItem = templates.find(t => t.id === id);
   if (!currentItem) return;
 
-  // Nếu đang dùng in-app browser → lưu file cần tải, rồi sang Shopee
+  // Nếu đang dùng in-app browser → mở Shopee tab mới + đếm ngược rồi mở file
   if (isInAppBrowser()) {
-    sessionStorage.setItem('pendingDownloadUrl', currentItem.drive_url);
-    window.location.href = AFFILIATE_URL;
+    window.open(AFFILIATE_URL, '_blank');
+    showInAppOverlay(currentItem.drive_url);
     return;
   }
 
@@ -602,25 +649,38 @@ document.addEventListener('click', e => {
   }
 });
 
-// ── TỰ ĐỘNG MỞ FILE KHI BACK VỀ TỪ SHOPEE ──
-function checkPendingDownload() {
-  const pendingUrl = sessionStorage.getItem('pendingDownloadUrl');
-  if (pendingUrl) {
-    sessionStorage.removeItem('pendingDownloadUrl');
-    setTimeout(() => {
-      window.location.href = pendingUrl;
-    }, 400);
-  }
-}
+// ── OVERLAY ĐẾM NGƯỢC CHO IN-APP BROWSER ──
+function showInAppOverlay(driveUrl) {
+  const overlay  = document.getElementById('overlayInApp');
+  const countEl  = document.getElementById('inAppCountdown');
+  const fill     = document.getElementById('inAppFill');
 
-// Xử lý cả 2 trường hợp: trang reload bình thường và restore từ bfcache
-window.addEventListener('pageshow', function(event) {
-  if (event.persisted) checkPendingDownload();
-});
+  overlay.classList.add('show');
+
+  let secs = 5;
+  countEl.textContent = secs;
+  fill.style.width = '0%';
+  // Kích hoạt transition sau 1 frame để animation chạy đúng
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      fill.style.transition = 'width 5s linear';
+      fill.style.width = '100%';
+    });
+  });
+
+  const timer = setInterval(() => {
+    secs--;
+    countEl.textContent = secs;
+    if (secs <= 0) {
+      clearInterval(timer);
+      // Mở file — dùng location.href để in-app browser xử lý được
+      window.location.href = driveUrl;
+    }
+  }, 1000);
+}
 
 loadTemplates().then(() => {
   buildCatMenu();
-  checkPendingDownload(); // kiểm tra sau khi templates đã load
   const params = new URLSearchParams(window.location.search);
   const q = params.get('q');
   if (q) {
