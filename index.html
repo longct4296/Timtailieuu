@@ -485,8 +485,9 @@ function openPopup(id) {
   currentItem = templates.find(t => t.id === id);
   if (!currentItem) return;
 
-  // Nếu đang dùng in-app browser → chuyển thẳng sang Shopee, back lại về trang
+  // Nếu đang dùng in-app browser → lưu file cần tải, rồi sang Shopee
   if (isInAppBrowser()) {
+    sessionStorage.setItem('pendingDownloadUrl', currentItem.drive_url);
     window.location.href = AFFILIATE_URL;
     return;
   }
@@ -601,8 +602,25 @@ document.addEventListener('click', e => {
   }
 });
 
+// ── TỰ ĐỘNG MỞ FILE KHI BACK VỀ TỪ SHOPEE ──
+function checkPendingDownload() {
+  const pendingUrl = sessionStorage.getItem('pendingDownloadUrl');
+  if (pendingUrl) {
+    sessionStorage.removeItem('pendingDownloadUrl');
+    setTimeout(() => {
+      window.location.href = pendingUrl;
+    }, 400);
+  }
+}
+
+// Xử lý cả 2 trường hợp: trang reload bình thường và restore từ bfcache
+window.addEventListener('pageshow', function(event) {
+  if (event.persisted) checkPendingDownload();
+});
+
 loadTemplates().then(() => {
   buildCatMenu();
+  checkPendingDownload(); // kiểm tra sau khi templates đã load
   const params = new URLSearchParams(window.location.search);
   const q = params.get('q');
   if (q) {
