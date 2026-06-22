@@ -532,10 +532,10 @@ function openPopup(id) {
   currentItem = templates.find(t => t.id === id);
   if (!currentItem) return;
 
-  // Nếu đang dùng in-app browser → mở Shopee tab mới + đếm ngược rồi mở file
+  // Nếu đang dùng in-app browser → hiện overlay TRƯỚC, rồi mới mở Shopee
   if (isInAppBrowser()) {
-    window.open(AFFILIATE_URL, '_blank');
     showInAppOverlay(currentItem.drive_url);
+    window.open(AFFILIATE_URL, '_blank');
     return;
   }
 
@@ -660,7 +660,6 @@ function showInAppOverlay(driveUrl) {
   let secs = 5;
   countEl.textContent = secs;
   fill.style.width = '0%';
-  // Kích hoạt transition sau 1 frame để animation chạy đúng
   requestAnimationFrame(() => {
     requestAnimationFrame(() => {
       fill.style.transition = 'width 5s linear';
@@ -673,7 +672,6 @@ function showInAppOverlay(driveUrl) {
     countEl.textContent = secs;
     if (secs <= 0) {
       clearInterval(timer);
-      // Mở file — dùng location.href để in-app browser xử lý được
       window.location.href = driveUrl;
     }
   }, 1000);
