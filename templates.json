@@ -692,6 +692,33 @@
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1CQ4G5Wc1ueMnH_vt13jIND8dIRFTkklX"
   },
+                                                                                                                                        {
+    "id": 87,
+    "name": "IELTS tổng hợp",
+    "keywords": ["IELTStonghop"],
+    "type": "Drive",
+    "size": "89 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1SnALbwejeH8QTmzOrMY98eFMuAIguSFe"
+  },
+                                                                                                                                        {
+    "id": 88,
+    "name": "TOEIC tổng hợp",
+    "keywords": ["TOEICtonghop"],
+    "type": "Drive",
+    "size": "89 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/11BslvSFeQekk2xgoQ9pFWCSt-vsoyX6o"
+  },
+                                                                                                                                        {
+    "id": 89,
+    "name": "HSK tổng hợp",
+    "keywords": ["HSKtonghop"],
+    "type": "Drive",
+    "size": "89 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/19s9DvoZUQMTN3DyaKMCWDe5Dl21PZM6g"
+  },
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
