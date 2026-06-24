@@ -751,7 +751,18 @@
     "size": "114 KB",																									
     "category": "Học tiếng trung",																									
     "drive_url": "https://drive.google.com/drive/folders/1bhfTDo7434P6Nbc_OheTXEbyVR4nHcFp?usp=sharing"																									
-  },																									
+  },	
+    {
+    "id": 93,
+    "name": "Kế hoạch quản lý kênh",
+    "keywords": [
+      "kehoachquanlyxaykenh"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Template Marketing",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1k8LVj7p_diL1HL_JfAfXX25uOA_uGduglAwIwCoF0WI/edit?fbclid=IwY2xjawML8-RleHRuA2FlbQIxMABicmlkETE2ZVlwWXFUT0Q3NzBvaHB6AR5iUVRtztV-4k6JsXXyB0agUemT8jJcnhRoHljOlykwdZE_Vq4oeVLoY2Ictg_aem_BAdJRB7epmxvnoPJph719w&gid=1025903693#gid=1025903693"
+  }
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
