@@ -928,6 +928,28 @@
     "category": "Học tiếng anh",
     "drive_url": "https://docs.google.com/spreadsheets/d/1c5wx3bFptrFXfGB2c4aYigzLraUjFkNDbM2pQu-wBkQ/edit"
   },
+    {
+    "id": 109,
+    "name": "Từ vựng tiếng Trung ( Theo ngành )",
+    "keywords": [
+      "tuvungtheonganh"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/1Ur5ZUnozNokPBN2rNeLSXho1Zn0U91NR?usp=drive_link"
+  },
+  {
+    "id": 110,
+    "name": "72 đề thi HSK 1-6 ( Có File Nghe )",
+    "keywords": [
+      "72dethihsk1-6"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/1Fw-FjqtlCFs6ALYe3rqRQYPIKcMK_ylN?usp=drive_link"
+  },
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
