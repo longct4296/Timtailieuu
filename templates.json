@@ -873,6 +873,28 @@
     "category": "Khác",
     "drive_url": "https://drive.google.com/drive/folders/1IRy9VT9sz0EXTjkzpWGnF-fHBwbURovc"
   },
+    {
+    "id": 104,
+    "name": "Video bài giảng Hán Ngữ 1-6",
+    "keywords": [
+      "videobaigianghanngu1-6"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/1Rlf6KFDA4mT4gcEChctka9ZXdBiJv-CG"
+  },
+  {
+    "id": 105,
+    "name": "Tài liệu ôn thi HSK1-HSK4",
+    "keywords": [
+      "onthihsk1-4"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/1MVLYYBQ00B7oJ8LUQ89DtywcdhE5BJdS"
+  },
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
