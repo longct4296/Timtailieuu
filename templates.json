@@ -950,6 +950,17 @@
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1Fw-FjqtlCFs6ALYe3rqRQYPIKcMK_ylN?usp=drive_link"
   },
+    {
+    "id": 111,
+    "name": "Full thư viện tự động Claude Code",
+    "keywords": [
+      "fullthuvientudongclaudecode"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Khác",
+    "drive_url": "https://drive.google.com/drive/folders/1OsKMjTyxb4ke9zzQT5AgCo9uBpCoC04i?usp=drive_link"
+  },
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
