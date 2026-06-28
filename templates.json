@@ -1192,6 +1192,17 @@
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/19DE9fXfKZRAJTdHWKOxQxUhq63Sb7NmB"
   },
+        {
+    "id": 133,
+    "name": "Bộ 50+ khoá học miễn phí",
+    "keywords": [
+      "50khoahocmienphi"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Khác",
+    "drive_url": "https://drive.google.com/drive/folders/1vhdVSbDanSp_Zxv1og_WOEqC6ILm0QFu"
+  },
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
