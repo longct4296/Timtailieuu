@@ -1389,7 +1389,40 @@
     "size": "114 KB",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/1bIkNkpY-2-txiikWkx6Ry_ZLlSmdB_bB"
-  },     
+  },
+        {
+    "id": 151,
+    "name": "Tiếng Trung cơ bản cho người mới bắt đầu p1",
+    "keywords": [
+      "tiengtrungcobanchonguoimoi1"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/1SDUznT5z0gnnUw9blE6ExRnQTQI35pC6"
+  },
+  {
+    "id": 152,
+    "name": "Tiếng Trung cơ bản cho người mới bắt đầu p2",
+    "keywords": [
+      "tiengtrungcobanchonguoimoi2"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/1gMcJZmSs_kuVEsm00cZiFPl4szVtmmVO?usp=drive_link"
+  },
+  {
+    "id": 153,
+    "name": "Tiếng Trung cơ bản cho người mới bắt đầu p3",
+    "keywords": [
+      "tiengtrungcobanchonguoimoi3"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/1-wks_0CXN9-zVdUFsTYupttu0laa1YDg?usp=drive_link"
+  }
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
