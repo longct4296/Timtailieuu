@@ -1501,6 +1501,50 @@
     "drive_url": "https://drive.google.com/drive/folders/1M_m9JpZTDRcsdX_vxw8IXcQq2xO2qysl?fbclid=IwY2xjawSwKeFleHRuA2FlbQIxMABicmlkETFCNTA3YkVOSHc3WkJ1U3Q4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpLQcfSBWxvIKfJyjCbAY42-Iy9o00i-ND7iV0xlQ0pt4HB-0mmba7bgwkg3_aem_6M9OMAslfFkAwAX1cisBBg"
   },
   {
+    "id": 161,
+    "name": "Tiếng Trung giao tiếp 1",
+    "keywords": [
+      "tiengtrunggiaotiep1"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/1w6CUHPtDM0FRs6R-apgG5OM4sP-5tH0e?usp=drive_link"
+  },
+  {
+    "id": 162,
+    "name": "Tiếng Trung giao tiếp 2",
+    "keywords": [
+      "tiengtrunggiaotiep2"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/1OcDjZjIfu9BtjVwKntNK5_qoPwEuF-EV?usp=drive_link"
+  },
+  {
+    "id": 163,
+    "name": "Tiếng Trung giao tiếp 3",
+    "keywords": [
+      "tiengtrunggiaotiep3"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/1sEdMm5Ew6slXJhmcOygxZBDJV9GjNiMm?usp=drive_link"
+  },
+        {
+    "id": 164,
+    "name": "Giáo trình tiếng Hàn Seoul 1-6",
+    "keywords": [
+      "giaotrinhtienghanseoul"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Hàn",
+    "drive_url": "https://drive.google.com/drive/folders/1vxytmgDQoHIytI1ohzskD3lZVbt5zySj?fbclid=IwY2xjawSwgZFleHRuA2FlbQIxMABicmlkETFCNTA3YkVOSHc3WkJ1U3Q4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHimaBsSo0-4lJsfxMXcdnyH3fC5jWuxGTpNMBNmcBjQsjD9otq3Aj-OmGZyJ_aem_S_fwZlJmCdnEWdLjszw46Q"
+  },
+  {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
     "keywords": ["khoahocngocbach"],
