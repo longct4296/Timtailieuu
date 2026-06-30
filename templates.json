@@ -1489,6 +1489,17 @@
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1tAkvONNCIwH1ryLrqZxF2dIHUBAElaJZ?usp=drive_link"
   },
+        {
+    "id": 160,
+    "name": "Giáo trình tiếng Hàn tổng hợp",
+    "keywords": [
+      "giaotrinhtienghantonghop"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Hàn",
+    "drive_url": "https://drive.google.com/drive/folders/1M_m9JpZTDRcsdX_vxw8IXcQq2xO2qysl?fbclid=IwY2xjawSwKeFleHRuA2FlbQIxMABicmlkETFCNTA3YkVOSHc3WkJ1U3Q4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpLQcfSBWxvIKfJyjCbAY42-Iy9o00i-ND7iV0xlQ0pt4HB-0mmba7bgwkg3_aem_6M9OMAslfFkAwAX1cisBBg"
+  }
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
