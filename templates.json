@@ -1588,6 +1588,39 @@
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1VXT1g8kpyB54mD8EAcAgpyowiQARfu0w?usp=drive_link"
   },
+        {
+    "id": 169,
+    "name": "File từ vựng HSK 1-9",
+    "keywords": [
+      "tuvunghsk1-9"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/file/d/1PnsyxzC0ymGRP2z87YdnjvVNxAk3wQw1/view?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExTlRXWTNkblluQnBERDBrSnNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7K-VzpCwMYPPiHFYWaiyFThnCGiHAp59Fv4GKsJZuwlURcOh-0eLoc7lFC4A_aem_Euxfh6mwvJVjVgmIY2aURg"
+  },
+  {
+    "id": 170,
+    "name": "File ngữ pháp HSK 1-9",
+    "keywords": [
+      "nguphaphsk1-9"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/file/d/19mlv7abRRCkVMsy5k-kkhuZFDICu7iKH/view?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExTlRXWTNkblluQnBERDBrSnNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6WX7rpHcJO5_FkqGw-oJ_wiFhG1C_-YNG_buBDPjoy651hRySxneIQyWHasw_aem_Bv7hm8Z9iqu1LekLJ7Kdaw"
+  },
+  {
+    "id": 171,
+    "name": "File đề thi HSK7-9",
+    "keywords": [
+      "dethihsk7-9"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/file/d/1cg4NKBAvHrGG7aqYwUwPZp7nm8isP79v/view?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExTlRXWTNkblluQnBERDBrSnNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6LJ-em6J5MDyli4GWW7NzVPamv9LsIe3hhELK4CLkCjBwp0Zi4XGytnbrVxg_aem_0Oyk-x7Y0ZWx7NN__vxQLg"
+  },
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
