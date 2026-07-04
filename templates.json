@@ -1687,6 +1687,39 @@
     "category": "Kinh doanh",
     "drive_url": "https://drive.google.com/drive/folders/1KNMqHpCODJwdssyuBRUEwe-W6CDyRrpv"
   },
+        {
+    "id": 178,
+    "name": "Phỏng vấn xin việc bằng tiếng Trung",
+    "keywords": [
+      "phongvanxinviecbangtiengtrung"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/1gywoW0VhlKiKu09FKp5OqQNC6nUGN-Xs?usp=drive_link"
+  },
+  {
+    "id": 179,
+    "name": "Bí quyết nhớ hán ngữ vô cùng dễ",
+    "keywords": [
+      "biquyetnhohanngu"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/1H9lnWCh5Pj_94WVDpAeAr0Kd44XprQMD?usp=drive_link"
+  },
+  {
+    "id": 180,
+    "name": "Kỹ năng phát triển và lãnh đạo bản thân",
+    "keywords": [
+      "kynangphattrienvalanhdaobanthan"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Khác",
+    "drive_url": "https://drive.google.com/drive/folders/11sG04ocog8IrsprpPnJQc3DRCbhZFsJZ"
+  },
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
