@@ -1829,7 +1829,18 @@
     "size": "114 KB",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/1NeFAnztQ18iajT-1LQIxo-X1wx6ggloP"
-  },     
+  }, 
+  {
+    "id": 191,
+    "name": "Kho tài liệu tiếng Nhật Khủng",
+    "keywords": [
+      "khotailieutiengnhat"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng nhật",
+    "drive_url": "https://drive.google.com/drive/u/0/folders/1jzXNZtmWH606X3mi4SbxJ-RjM-Lz0vQm?fbclid=IwY2xjawS6qsZleHRuA2FlbQIxMABicmlkETFCaWdINU1Sbjk5Z09HUXF2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtbgfaX0Io1lFGxJOmiSJifqsAC-LVE_1Dksicwciw8YvU1b7296rp0HqVvg_aem_ifUttEIvdYvitSj2opHA-w"
+  },      
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
