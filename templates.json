@@ -1842,7 +1842,40 @@
     "size": "114 KB",
     "category": "Plan du lịch",
     "drive_url": "https://docs.google.com/spreadsheets/d/10pusli8Z2S_eQYhpvX_RdYZU3FNGg5gi4faovQSE0_Q/edit?usp=sharing"     
-   },        
+   }, 
+  {
+    "id": 193,
+    "name": "Ready for B2C1C2",
+    "keywords": [
+      "readyforb2c1c2"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/u/0/folders/1luo_dOUTuZkEWArJ47My73bJcXZG70Qi?fbclid"
+  },
+  {
+    "id": 194,
+    "name": "Tiếng anh 7.5",
+    "keywords": [
+      "tienganh7.5"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1EYLio1wxX5OKeM8kPU7jdeM31mf_zk6V?hl=vi&fbclid=IwY2xjawR20-tleHRuA2FlbQIxMABicmlkETFacWhxV0xGY0ZDRTNIOVdVc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHroL6IhzHdw9YP2lFz_t-fUYrfL8jpI1MfWI7RrgP-M57hD4ct7YJldDD4Kf_aem_nqB75yYNR6PTAjV7pq79xg"
+  },
+  {
+    "id": 195,
+    "name": "TẤT TẦN TẬT FILE 100GB TÀI LIỆU TOEIC-GIAO TIẾP CHUYÊN SÂU",
+    "keywords": [
+      "100gbtailieutoeic"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1J7DhKjgQqLCKnXSGffXCLKqxcXgTCkotSqaHyUa0XF8/edit?gid=0#gid=0"
+  },      
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
