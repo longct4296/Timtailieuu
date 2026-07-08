@@ -1831,7 +1831,18 @@
     "size": "114 KB",
     "category": "Học tiếng nhật",
     "drive_url": "https://drive.google.com/drive/u/0/folders/1jzXNZtmWH606X3mi4SbxJ-RjM-Lz0vQm?fbclid=IwY2xjawS6qsZleHRuA2FlbQIxMABicmlkETFCaWdINU1Sbjk5Z09HUXF2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtbgfaX0Io1lFGxJOmiSJifqsAC-LVE_1Dksicwciw8YvU1b7296rp0HqVvg_aem_ifUttEIvdYvitSj2opHA-w"
-  },      
+  },
+   {
+    "id": 192,
+    "name": "Plan du lịch Hà Giang",
+    "keywords": [
+      "plandulichhagiang"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Plan du lịch",
+    "drive_url": "https://docs.google.com/spreadsheets/d/10pusli8Z2S_eQYhpvX_RdYZU3FNGg5gi4faovQSE0_Q/edit?usp=sharing"     
+   },        
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
