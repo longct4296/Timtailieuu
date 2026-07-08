@@ -1875,7 +1875,73 @@
     "size": "114 KB",
     "category": "Học tiếng anh",
     "drive_url": "https://docs.google.com/spreadsheets/d/1J7DhKjgQqLCKnXSGffXCLKqxcXgTCkotSqaHyUa0XF8/edit?gid=0#gid=0"
-  },      
+  },
+    {
+    "id": 196,
+    "name": "Plan du lịch Phú Quốc",
+    "keywords": [
+      "plandulichphuquoc"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Plan du lịch",
+    "drive_url": "https://docs.google.com/spreadsheets/d/16Fn3xUbjg-7NG2Sw2jnAlo8WHnTTr_HP8o8KS6mxwjE/edit?gid=0#gid=0"
+  },
+  {
+    "id": 197,
+    "name": "Plan du lịch Sapa",
+    "keywords": [
+      "plandulichsapa"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Plan du lịch",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1XB0p3USZDhISMzVdVlo4NDoeLYdA2_D2jcsWgHlQiGY/edit?gid=0#gid=0"
+  },
+  {
+    "id": 198,
+    "name": "Plan du lịch Nha Trang",
+    "keywords": [
+      "plandulichnhatrang"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Plan du lịch",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1WwgCQ_UoYzzu7uktw_LfxEtNNwe5n5XrpYQ7cLW2t_0/edit?gid=196469300#gid=196469300"
+  },
+  {
+    "id": 199,
+    "name": "Plan du lịch Huế - Hội An - Đà Nẵng",
+    "keywords": [
+      "plandulichhuehoiandanang"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Plan du lịch",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1qlmHNQfhfmAPnpnBi3CG6TqyuXvOPBZavtgM911sMxg/edit?gid=585449833#gid=585449833"
+  },
+  {
+    "id": 200,
+    "name": "HUẾ ĂN CHI - ĐI MÔ CHỪ ? (by TÝ)",
+    "keywords": [
+      "hueanchi"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Plan du lịch",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1ZR_3WfUYhg5v6RWVizEr5lKXJ44G-mZJm-W-fI6SECw/edit?gid=0#gid=0"
+  },
+  {
+    "id": 201,
+    "name": "Giáo trình chuẩn HSK1-6",
+    "keywords": [
+      "giaotrinhhsk1-6"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/1A0ZUS1CkSNIP5ncsxa9Z7RJJgUdIIHIW"
+  },    
   {
     "id": 6,
     "name": "Khóa học IELTS Ngọc Bách",
