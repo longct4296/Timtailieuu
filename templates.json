@@ -1,794 +1,853 @@
 [
-      {
-    "id": 119,
-    "name": "Hợp đồng Pr booking.docx",
-    "keywords": [
-      "Hopdongbookingpr"
-    ],
-    "type": "Drive",
-    "size": "114 KB",
-    "category": "Biểu mẫu",
-    "drive_url": "https://docs.google.com/document/d/1RJoCIf9OyLHHu24LCU9QT6gDcflvb1lQ/edit?tab=t.0"
-  },
-  {
-    "id": 118,
-    "name": "Hợp đồng booking KOL, UGC.docx",
-    "keywords": [
-      "hopdongbookingkolugc"
-    ],
-    "type": "Drive",
-    "size": "114 KB",
-    "category": "Biểu mẫu",
-    "drive_url": "https://docs.google.com/document/d/1bXYlbQBv0Y2L2S1L4rNj4fmSIimQ0bh1/edit?tab=t.0"
-  },
-  {
-    "id": 117,
-    "name": "HĐCTV_khoán việc.docx",
-    "keywords": [
-      "hdctvkhoanviec"
-    ],
-    "type": "Drive",
-    "size": "114 KB",
-    "category": "Biểu mẫu",
-    "drive_url": "https://docs.google.com/document/d/1C1fTS7HoPb7Z0rY3YKIPD4Q3I-KwHvXV/edit?rtpof=true&sd=true"
-  },
-  {
-    "id": 116,
-    "name": "Biên bản nghiệm thu công việc từng phần theo tháng với CTV.docx",
-    "keywords": [
-      "bienbannghiemthucvctv"
-    ],
-    "type": "Drive",
-    "size": "114 KB",
-    "category": "Biểu mẫu",
-    "drive_url": "https://docs.google.com/document/d/1YiXZkzLVOJnBTDiVnEWH3Bi4d5qBFFKj/edit?tab=t.0"
-  },
-  {
-    "id": 115,
-    "name": "Hoá đơn nháp.docx",
-    "keywords": [
-      "hoadonnhap"
-    ],
-    "type": "Drive",
-    "size": "114 KB",
-    "category": "Biểu mẫu",
-    "drive_url": "https://docs.google.com/document/d/1a9i0Yxu9LvbMONCUqvkjiSt022wY3DG_/edit?tab=t.0"
-  },
-  {
-    "id": 114,
-    "name": "NGHỀ CONTENT_ TỔNG HỢP 500 CÂU HOOK TRIỆU VIEW",
-    "keywords": [
-      "500cauhooktrieuview"
-    ],
-    "type": "Drive",
-    "size": "114 KB",
-    "category": "Marketing",
-    "drive_url": "https://docs.google.com/document/d/1kwOpHuOM7_dSFdo46g573wLynuRZ87JTD5tlSl_XpBY/edit?tab=t.0"
-  },
-    {
-    "id": 113,
-    "name": "Tài liệu IELTS tổng hợp nhiều nguồn",
-    "keywords": [
-      "tailieuieltsnhieunguon"
-    ],
-    "type": "Drive",
-    "size": "114 KB",
-    "category": "Học tiếng anh",
-    "drive_url": "https://docs.google.com/spreadsheets/d/1V-C6z2OVm_YXalpnHdzIc9c-yHFKXQsTVdez58LSywg/edit?gid=0#gid=0"
-  },
   {
     "id": 1,
     "name": "1000 video tiếng anh",
-    "keywords": ["1000videotienganh"],
-    "type": "Excel",
-    "size": "48 KB",
+    "keywords": [
+      "1000videotienganh"
+    ],
+    "type": "Drive",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/1RFtnLFI2vBFRkuJ6JsTMYXEufKVuKHny"
   },
   {
     "id": 2,
     "name": "Bảng tính COST món",
-    "keywords": ["Cost, tinh cost"],
-    "type": "Excel",
-    "size": "2.1 MB",
+    "keywords": [
+      "Cost"
+    ],
+    "type": "Drive",
+    "size": "—",
     "category": "Vận hành",
     "drive_url": "https://docs.google.com/spreadsheets/d/1YEmjY9567kqDx8hi4hmnMTUatTZr3bxb/edit?usp=sharing&ouid=102197250645984320223&rtpof=true&sd=true"
   },
   {
     "id": 3,
     "name": "Quy tắc ứng xử khi giao tiếp khách hàng",
-    "keywords": ["Quy tắc ứng xử", "Giao tiếp khách hàng"],
-    "type": "Excel",
-    "size": "35 KB",
+    "keywords": [
+      "Quy tắc ứng xử"
+    ],
+    "type": "Drive",
+    "size": "—",
     "category": "Nhân sự",
     "drive_url": "https://docs.google.com/document/d/1kVxWxSNZRNI7ZYblXnAG5BIeGjJuUPXS/edit?usp=sharing&ouid=102197250645984320223&rtpof=true&sd=true"
   },
   {
     "id": 4,
     "name": "Checklist mở quán quán",
-    "keywords": ["checklist"],
-    "type": "Word",
-    "size": "120 KB",
+    "keywords": [
+      "checklist"
+    ],
+    "type": "Drive",
+    "size": "—",
     "category": "Vận hành",
     "drive_url": "https://docs.google.com/spreadsheets/d/1oOTZmiMohp0QgYNhos5n2gx-Hkuiqeo7p4dEzfoSj7Q/edit?usp=sharing"
   },
   {
     "id": 5,
     "name": "Học tiếng Anh từ con số 0",
-    "keywords": ["Hoctienganhtuconso0"],
-    "type": "Excel",
-    "size": "89 KB",
+    "keywords": [
+      "Hoctienganhtuconso0"
+    ],
+    "type": "Drive",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/0B2FhRQ6gM1p2Sk1ydGI2Zy0tVFk?resourcekey=0-E65h54WKHX9_5zXycrg2zw"
   },
-    {
-    "id": 7,
+  {
+    "id": 6,
     "name": "Lộ trình ôn thi IELTS từ 0-7.5",
-    "keywords": ["lotrinhonthiielts"],
-    "type": "Excel",
-    "size": "89 KB",
+    "keywords": [
+      "lotrinhonthiielts"
+    ],
+    "type": "Drive",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://docs.google.com/spreadsheets/d/1dzzTSmcUMRi5f8vtYAg6V6WQzROrS_qFCQ72xQi4q9Q/edit?gid=0#gid=0"
   },
-      {
-    "id": 8,
+  {
+    "id": 7,
     "name": "48 ngày lấy gốc tiếng anh Cô Mai Phương",
-    "keywords": ["48ngaylaygoctienganhcomaiphuong"],
-    "type": "Excel",
-    "size": "89 KB",
+    "keywords": [
+      "48ngaylaygoctienganhcomaiphuong"
+    ],
+    "type": "Drive",
+    "size": "—",
     "category": "Học tiếng anh",
-    "drive_url": "https://docs.google.com/spreadsheets/d/1l1KcTmaLLNaATvkhESsCpHfdvYa_UbnRyeMVbMxcylo/edit?gid=776409866#gid=776409866"
+    "drive_url": "https://docs.google.com/spreadsheets/d/1qACHbOVPYqjHPM74K05irOZezYfI8Gm_4LIXOtV2Whc/edit?usp=sharing"
   },
-        {
-    "id": 9,
+  {
+    "id": 8,
     "name": "Lộ trình học tiếng Trung",
-    "keywords": ["lotrinhhoctiengtrung"],
-    "type": "Excel",
-    "size": "89 KB",
+    "keywords": [
+      "lotrinhhoctiengtrung"
+    ],
+    "type": "Drive",
+    "size": "—",
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1tKbb5b1GJdBntI80hTsVEnW7rXrWv3qq"
   },
-        {
-    "id": 11,
+  {
+    "id": 9,
     "name": "Quản lý dự án",
-    "keywords": ["quanlyduan"],
-    "type": "Excel",
-    "size": "89 KB",
+    "keywords": [
+      "quanlyduan"
+    ],
+    "type": "Drive",
+    "size": "—",
     "category": "Vận hành",
     "drive_url": "https://drive.google.com/drive/folders/1SI1swfxnvXWNI42hcqzoJS5cYg087jmd"
   },
-          {
-    "id": 13,
+  {
+    "id": 10,
     "name": "334 video học tiếng anh",
-    "keywords": ["334videohoctienganh"],
-    "type": "Excel",
-    "size": "89 KB",
+    "keywords": [
+      "334videohoctienganh"
+    ],
+    "type": "Drive",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/1Zothvs90MT1yhLUs9vloXD6JFOuIcOr0"
   },
-            {
-    "id": 14,
+  {
+    "id": 11,
     "name": "Content Calendar Quán CF",
-    "keywords": ["ContentcalendarCF"],
-    "type": "Excel",
-    "size": "89 KB",
+    "keywords": [
+      "ContentcalendarCF"
+    ],
+    "type": "Drive",
+    "size": "—",
     "category": "Vận hành",
     "drive_url": "https://docs.google.com/spreadsheets/d/1T4DerlG53ri8v0LwJm2amM6_wFEqu6ftlz-51DPtx54/edit?usp=sharing"
   },
-              {
-    "id": 15,
+  {
+    "id": 12,
     "name": "Lộ trình 5 tuần tự học TOEIC",
-    "keywords": ["lotrinh5tuantuhoctoeic"],
-    "type": "Excel",
-    "size": "89 KB",
+    "keywords": [
+      "lotrinh5tuantuhoctoeic"
+    ],
+    "type": "Drive",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://docs.google.com/spreadsheets/d/1bptJ-Z5C8gXERNd0P9ymjR9a0u7uehH_0bAAC1h7kTg/edit?gid=0#gid=0"
   },
-                {
-    "id": 16,
+  {
+    "id": 13,
     "name": "Khóa học tiếng anh thầy Kiên",
-    "keywords": ["khoahoctienganhthaykien"],
-    "type": "Excel",
-    "size": "89 KB",
+    "keywords": [
+      "khoahoctienganhthaykien"
+    ],
+    "type": "Drive",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/1lNvdBjPzxy0miG96Jfl3HjMKzoKbAIZl"
   },
-                  {
-    "id": 17,
+  {
+    "id": 14,
     "name": "Tổng hợp 200 đề Listening IELTS",
-    "keywords": ["200delisteningielts"],
-    "type": "Excel",
-    "size": "89 KB",
+    "keywords": [
+      "200delisteningielts"
+    ],
+    "type": "Drive",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/1fodaSdrqJZ3gI5kMMb0bjqqxJKCwg6ob"
   },
-                    {
-    "id": 18,
+  {
+    "id": 15,
     "name": "Tài liệu học tiếng Trung từ 0-HSK 9",
-    "keywords": ["tailieuhoctiengtrung0-hsk9"],
-    "type": "Excel",
-    "size": "89 KB",
+    "keywords": [
+      "tailieuhoctiengtrung0-hsk9"
+    ],
+    "type": "Drive",
+    "size": "—",
     "category": "Học tiếng trung",
-    "drive_url": "https://drive.google.com/drive/folders/1kUlcHwoVPYobsSRG5p7g8y1-mxMJzCdJ"
+    "drive_url": "https://drive.google.com/drive/folders/1npnanhcHdnK7GyIuueKPvcttOwcX35D4"
   },
-                      {
-    "id": 19,
+  {
+    "id": 16,
     "name": "Market Research Template",
-    "keywords": ["Marketresearchtemplate"],
-    "type": "Excel",
-    "size": "89 KB",
-    "category": "Template Marketing",
-    "drive_url": "https://docs.google.com/spreadsheets/d/1fxarGhgJaVRFNvseBR2hq9N4A_DkR1cmNzfGDrMJGZk/edit?usp=sharing"
-  },
-                        {
-    "id": 20,
-    "name": "Sơ đồ vẽ chân dung khách hàng mục tiêu",
-    "keywords": ["Sodovechandungkhachhangmuctieu"],
-    "type": "Xmind",
-    "size": "89 KB",
-    "category": "Template Marketing",
-    "drive_url": "https://app.xmind.com/share/tejdeuQd"
-  },
-                          {
-    "id": 21,
-    "name": "Khóa học Edit Capcut Quạ HD",
-    "keywords": ["editcapcutquahd"],
+    "keywords": [
+      "Marketresearchtemplate"
+    ],
     "type": "Drive",
     "size": "89 KB",
+    "category": "Template marketing",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1fxarGhgJaVRFNvseBR2hq9N4A_DkR1cmNzfGDrMJGZk/edit?usp=sharing"
+  },
+  {
+    "id": 17,
+    "name": "Sơ đồ vẽ chân dung khách hàng mục tiêu",
+    "keywords": [
+      "Sodovechandungkhachhangmuctieu"
+    ],
+    "type": "Drive",
+    "size": "90 KB",
+    "category": "Template marketing",
+    "drive_url": "https://app.xmind.com/share/tejdeuQd"
+  },
+  {
+    "id": 18,
+    "name": "Khóa học Edit Capcut Quạ HD",
+    "keywords": [
+      "editcapcutquahd"
+    ],
+    "type": "Drive",
+    "size": "—",
     "category": "Edit video",
     "drive_url": "https://drive.google.com/drive/u/0/folders/1FPvLt_WusaiqKfCYjAPGJtnEKZZcP8GT"
   },
-                            {
-    "id": 22,
+  {
+    "id": 19,
     "name": "Plan mẫu CONTENT Marketing Plan/ Social Media Plan",
-    "keywords": ["Planmaucontent"],
+    "keywords": [
+      "Planmaucontent"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "91 KB",
     "category": "Template marketing",
     "drive_url": "https://docs.google.com/spreadsheets/d/1oIcKJMHaT2_QpmEtuvlW8e1Z8p1r35Axy1C7L9dBI48/edit?gid=1868035691#gid=1868035691"
   },
-                              {
-    "id": 23,
+  {
+    "id": 20,
     "name": "9 Tiểu thuyết kinh điển song ngữ Anh-Việt",
-    "keywords": ["9Tieuthuyetsongngu"],
+    "keywords": [
+      "9Tieuthuyetsongngu"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/125YFeeyzHinIxuB6jBU6xfSJ5oFoChiF"
   },
-                                {
-    "id": 24,
+  {
+    "id": 21,
     "name": "Mẫu lập kế hoạch xây kênh",
-    "keywords": ["Maulapkehoachxaykenh"],
+    "keywords": [
+      "Maulapkehoachxaykenh"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "92 KB",
     "category": "Template marketing",
     "drive_url": "https://docs.google.com/spreadsheets/d/1ijdsi4DbBXP-Ei9OXWyhNfoWWXgrfN-m63rBqGCE_pI/edit?fbclid=IwY2xjawML9AlleHRuA2FlbQIxMABicmlkETE2ZVlwWXFUT0Q3NzBvaHB6AR5I03C8gDKCc4_2f_kqp5DcKwOfNYjxseUweaKxzRbJXgbW-f_SgXIlqTkgUg_aem_qAR0hCB-OPxnavUDlxoELg&gid=0#gid=0"
   },
-                                  {
-    "id": 25,
+  {
+    "id": 22,
     "name": "Tiếng Trung HSK1",
-    "keywords": ["tiengtrunghsk1"],
+    "keywords": [
+      "tiengtrunghsk1"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1dvChpNGMi1zVJYKyUDOxGaoUpZEECJzj"
   },
-                                    {
-    "id": 25.2,
+  {
+    "id": 23,
     "name": "Tiếng Trung HSK2",
-    "keywords": ["tiengtrunghsk2"],
+    "keywords": [
+      "tiengtrunghsk2"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1XDoc2MVXRjil9Qo8FrnB5VIOPrzrRdcn"
   },
-                                    {
-    "id": 25.3,
+  {
+    "id": 24,
     "name": "Tiếng Trung HSK3",
-    "keywords": ["tiengtrunghsk3"],
+    "keywords": [
+      "tiengtrunghsk3"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1hWdrTitzwURdoktdYQPHUORxuWCnAhZp"
   },
-                                    {
-    "id": 25.4,
+  {
+    "id": 25,
     "name": "Tiếng Trung HSK4",
-    "keywords": ["tiengtrunghsk4"],
+    "keywords": [
+      "tiengtrunghsk4"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1n2c3XuQGcA_viRafFHBVo1FJCvrEg6N4"
   },
-                                      {
-    "id": 25.5,
+  {
+    "id": 26,
     "name": "Tiếng Trung HSK5",
-    "keywords": ["tiengtrunghsk5"],
+    "keywords": [
+      "tiengtrunghsk5"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1BW4hCDW7ZtF-3X8qko-foraVhhn1kEGv"
   },
-                                        {
-    "id": 26,
-    "name": "Template du lịch",
-    "keywords": ["templatedulich"],
+  {
+    "id": 27,
+    "name": "Plan du lịch",
+    "keywords": [
+      "templatedulich"
+    ],
     "type": "Drive",
-    "size": "89 KB",
-    "category": "Template Du lịch",
+    "size": "—",
+    "category": "Plan du lịch",
     "drive_url": "https://docs.google.com/spreadsheets/d/1gpG1wjlnD83UVre-mK6StYBHGVyDhDwY5ERZ-2pJzX0/edit?gid=499279074#gid=499279074"
   },
-                                          {
-    "id": 27,
+  {
+    "id": 28,
     "name": "Khóa học CAPCUT Kobe Media",
-    "keywords": ["Khoahoccapcutkobe"],
+    "keywords": [
+      "Khoahoccapcutkobe"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Edit video",
     "drive_url": "https://drive.google.com/drive/u/0/folders/1JYox6GqT8EVwLEqGnVcZAHknlifbtAHW"
   },
-                                            {
-    "id": 28,
+  {
+    "id": 29,
     "name": "30 ngày xóa mù TOEIC",
-    "keywords": ["30ngayxoamutoeic"],
+    "keywords": [
+      "30ngayxoamutoeic"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/198GPRsgJBFuwxvwfeL_PviQlN7PUusi9"
   },
-                                              {
-    "id": 29,
-    "name": "10TB tài liệu tiếng anh",
-    "keywords": ["10tbtailieutienganh"],
-    "type": "Drive",
-    "size": "89 KB",
-    "category": "Học tiếng anh",
-    "drive_url": "https://drive.google.com/drive/folders/1q7JXXXokyX4RnCS8FYJYKdh7pN5of93v"
-  },
-                                                {
+  {
     "id": 30,
-    "name": "Tài liệu - Lập kế hoạch Marketing dành cho SMEs & Startups",
-    "keywords": ["lapkehoachmktdanhchosme"],
+    "name": "Khóa học IELTS Ngọc Bách",
+    "keywords": [
+      "khoahocngocbach"
+    ],
     "type": "Drive",
-    "size": "89 KB",
-    "category": "Vận hành",
-    "drive_url": "https://runbylinhltd.sg.larksuite.com/wiki/NK2uwQWHOiSaldk79S3lUQlhgLf?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExUkpaV2RLblIzSGxqYXFudXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR75NnbCLxz-o638neEO_Uw6X2-SHHU8pYb8LecMW7-eCg-7pVwNuoLQP5E6Uw_aem_U9FC02DbFjhf69pK0mVpxQ"
+    "size": "—",
+    "category": "Học tiếng anh",
+    "drive_url": "http://drive.google.com/drive/folders/1UJQ4MpZBoA_G_M7aCOP-IqS1z0ZNKn4F"
   },
-                                                  {
+  {
     "id": 31,
-    "name": "Khóa học canva cho người chưa biết gì",
-    "keywords": ["khoahoccanvachonguoichuabietgi"],
-    "type": "Drive",
-    "size": "89 KB",
-    "category": "Học edit",
-    "drive_url": "https://drive.google.com/drive/folders/1XWlHIJ49cz0DwOyf8cNLtUkMdhyez92e"
-  },
-                                                    {
-    "id": 32,
     "name": "TÀI LIỆU HỌC IELTS 4 KỸ NĂNG",
-    "keywords": ["tailieuhocielts4kynang"],
+    "keywords": [
+      "tailieuhocielts4kynang"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://docs.google.com/spreadsheets/d/1tear7d9ouLkhOIJBcQbiSBv7Bxq2OG0JXhhpPQArMDk/edit?gid=0#gid=0"
   },
-                                                      {
-    "id": 33,
+  {
+    "id": 32,
     "name": "Khóa học tin học văn phòng vip",
-    "keywords": ["khoahoctinhocvanphong"],
+    "keywords": [
+      "khoahoctinhocvanphong"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Vận hành",
     "drive_url": "https://drive.google.com/drive/folders/19TIcajH26y2uh5bV3vXxoqGb4D9eAQt7"
   },
-                                                        {
-    "id": 34,
+  {
+    "id": 33,
     "name": "10 khóa học trở thành idol Tiktok",
-    "keywords": ["10khoahoctrothanhidoltiktok"],
+    "keywords": [
+      "10khoahoctrothanhidoltiktok"
+    ],
     "type": "Drive",
-    "size": "89 KB",
-    "category": "Khác",
+    "size": "93 KB",
+    "category": "Tiktok",
     "drive_url": "https://drive.google.com/drive/folders/1zjJnKt_oIxEA2MiOy7Kury_Hp826MQ5v"
   },
-                                                          {
-    "id": 35,
+  {
+    "id": 34,
     "name": "Plan du lịch Đài Loan",
-    "keywords": ["Plandulichdailoan"],
+    "keywords": [
+      "Plandulichdailoan"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Plan du lịch",
     "drive_url": "https://docs.google.com/spreadsheets/d/1IpWcGreSj9TXPUKv3tlFHESPQxwaio9r8WGABuROWas/edit?gid=2084945952#gid=2084945952"
   },
-                                                            {
-    "id": 36,
-    "name": "Tất Tần Tật Kiến Thức Reading",
-    "keywords": ["kienthucreading"],
+  {
+    "id": 35,
+    "name": "\"Tất Tần Tật\" Kiến Thức Reading",
+    "keywords": [
+      "kienthucreading"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://docs.google.com/document/d/14_ThwxLeBeuhDUnOBXut8iWyuqgiAsU3j461FFbZq5Y/edit?tab=t.0"
   },
-                                                              {
-    "id": 37,
+  {
+    "id": 36,
     "name": "Mẫu file báo cáo tháng",
-    "keywords": ["maufilebaocao"],
+    "keywords": [
+      "maufilebaocao"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "94 KB",
     "category": "Template marketing",
     "drive_url": "https://docs.google.com/spreadsheets/d/1xxXtsKFxs--JLJ3Gyjgjg45IpPBhR4wvjHMF8ags8AU/edit?gid=926725807#gid=926725807"
   },
-                                                                {
-    "id": 38,
+  {
+    "id": 37,
     "name": "Mẫu Master plan cộng đồng",
-    "keywords": ["maumasterplancongdong"],
+    "keywords": [
+      "maumasterplancongdong"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "95 KB",
     "category": "Template marketing",
     "drive_url": "https://docs.google.com/spreadsheets/d/1zMLIF9DxlFA6e1adq71H0yNHQhCbQJqLQ68gi2g3WG4/edit?gid=2055937697#gid=2055937697"
   },
-                                                                  {
-    "id": 39,
+  {
+    "id": 38,
     "name": "Ôn tập từ vựng HSK1 (song ngữ Trung-Anh) có ví dụ cụ thể",
-    "keywords": ["ontaptuvunghsk1"],
+    "keywords": [
+      "ontaptuvunghsk1"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng trung",
     "drive_url": "https://docs.google.com/spreadsheets/u/0/d/13uLlJ2_70EVzZR0A8krXuCObpWZ2mhNu/htmlview"
   },
-                                                                    {
-    "id": 40,
+  {
+    "id": 39,
     "name": "Promt GPT lập kế hoạch MKT",
-    "keywords": ["PromtGPTlapkehoachmkt"],
+    "keywords": [
+      "PromtGPTlapkehoachmkt"
+    ],
     "type": "Drive",
-    "size": "89 KB",
-    "category": "Khác",
+    "size": "96 KB",
+    "category": "AI",
     "drive_url": "https://docs.google.com/document/d/1ESDZzMpM2BhM1iHx3IdzQjU75waAyJ6i/edit"
   },
-                                                                      {
-    "id": 41,
+  {
+    "id": 40,
     "name": "TÀI LIỆU IELTS TỪ 0 - 7.5+ (MỚI NHẤT)",
-    "keywords": ["tailieuielts0den7.5"],
+    "keywords": [
+      "tailieuielts0den7.5"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://docs.google.com/spreadsheets/d/1jRQczSMN6iWL8xF7HuQpj_M2L2qSm5QYSCxiWzpSR1k/edit?gid=0#gid=0"
   },
-                                                                        {
-    "id": 52,
+  {
+    "id": 41,
     "name": "Giáo trình tán gái 7 Chương",
-    "keywords": ["giaotrinhtangai7chuong"],
+    "keywords": [
+      "giaotrinhtangai7chuong"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "97 KB",
     "category": "Khác",
     "drive_url": "https://drive.google.com/drive/folders/1arWNuz4KP49gVuw3jEqWfSIWs0k2W5nF"
   },
-                                                                          {
-    "id": 53,
+  {
+    "id": 42,
     "name": "Marcom Plan",
-    "keywords": ["marcomplan"],
+    "keywords": [
+      "marcomplan"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "98 KB",
     "category": "Template marketing",
     "drive_url": "https://docs.google.com/spreadsheets/d/13bn-eFMFTfCAgsHTN82T_6hdREhncR6VoVkGDpX2vBs/edit?gid=1809489582#gid=1809489582"
   },
-                                                                            {
-    "id": 54,
+  {
+    "id": 43,
     "name": "Hướng dẫn Market Research cùng AI",
-    "keywords": ["marketresearchai"],
+    "keywords": [
+      "marketresearchai"
+    ],
     "type": "Drive",
-    "size": "89 KB",
-    "category": "Template marketing",
+    "size": "99 KB",
+    "category": "AI",
     "drive_url": "https://runbylinhltd.sg.larksuite.com/wiki/KE7Kwhp3hitvWPkN5Xjl8R6vgXb?fbclid=IwY2xjawSYdOVleHRuA2FlbQIxMABicmlkETI1TExRSFVHMmdIZmxCTUFYc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrTepEPtKH7L2_AaLrYNrkGI5Fi8IRI87W5mhRNMl8gHC399TxwB4ILDUX2Y_aem_60rGC7kqhKvvRAApEqVBEw"
   },
-                                                                              {
-    "id": 55,
+  {
+    "id": 44,
     "name": "Kho tài nguyên Canva",
-    "keywords": ["khotainguyencanva"],
+    "keywords": [
+      "khotainguyencanva"
+    ],
     "type": "Drive",
-    "size": "89 KB",
-    "category": "Khác",
+    "size": "100 KB",
+    "category": "Edit video",
     "drive_url": "https://drive.google.com/drive/folders/1jGz2puO1pLgaEMepYyrrPMyDdqwRshtC"
   },
-                                                                                {
-    "id": 56,
+  {
+    "id": 45,
     "name": "Plan du lịch Huế",
-    "keywords": ["plandulichhue"],
+    "keywords": [
+      "plandulichhue"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Plan du lịch",
     "drive_url": "https://docs.google.com/spreadsheets/d/1ewgwclfnDCXEOM76vtLoQeqhLAWZtwGFX2myUlcSkVQ/edit?gid=1303776774#gid=1303776774"
   },
-                                                                                  {
-    "id": 57,
+  {
+    "id": 46,
     "name": "File ôn tiếng trung từ vựng HSK2",
-    "keywords": ["tuvunghsk2"],
+    "keywords": [
+      "tuvunghsk2"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng trung",
     "drive_url": "https://docs.google.com/spreadsheets/d/1gCC0_cm_dAUnEExKXg0jhhBRHvx1ymuB/edit?gid=943091278#gid=943091278"
   },
-                                                                                    {
-    "id": 58,
+  {
+    "id": 47,
     "name": "Tài liệu tự học IELTS 8.0",
-    "keywords": ["tailieuhocielts8.0"],
+    "keywords": [
+      "tailieuhocielts8.0"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/1HJAsQksNgenwzmNpMFBWUs-su6hNqm9r"
   },
-                                                                                      {
-    "id": 59,
+  {
+    "id": 48,
     "name": "Mẫu quản lý nội dung Marketing",
-    "keywords": ["Mauquanlynoidungmarketing"],
+    "keywords": [
+      "Mauquanlynoidungmarketing"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "101 KB",
     "category": "Template marketing",
     "drive_url": "https://yspacevn.sg.larksuite.com/wiki/D975wZnG3iCbNskQ1tYlniGpg4g?table=blkvTU8ln1xqZVBe"
   },
-                                                                                        {
-    "id": 60,
+  {
+    "id": 49,
     "name": "Khóa học capcut PC",
-    "keywords": ["hoccapcutpc"],
+    "keywords": [
+      "hoccapcutpc"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Edit video",
     "drive_url": "https://drive.google.com/drive/folders/1Cpu-JuzUt4G3wdlPLbX8eKDIMa533VEd"
   },
-                                                                                          {
-    "id": 61,
+  {
+    "id": 50,
     "name": "Khai thác Caude cho Marketer no-code",
-    "keywords": ["claudechomktnocode"],
+    "keywords": [
+      "claudechomktnocode"
+    ],
     "type": "Drive",
-    "size": "89 KB",
-    "category": "Khác",
+    "size": "102 KB",
+    "category": "AI",
     "drive_url": "https://docs.google.com/document/d/1vLI1z1nN20KU7YRXOFGmLQqLYAcICfHVE88x71DTwkc/edit?tab=t.0"
   },
-                                                                                            {
-    "id": 62,
-    "name": "Tài liệu IELTS NGUYỄN HUYỀN",
-    "keywords": ["tailieutanguyenhuyen"],
-    "type": "Drive",
-    "size": "89 KB",
-    "category": "Học tiếng anh",
-    "drive_url": "https://drive.google.com/drive/folders/11Vl0qOAlmXzHJO8LglDv1Uz-cpjoIlct"
-  },
-                                                                                              {
-    "id": 63,
-    "name": "Bài giảng TOEIC free",
-    "keywords": ["baigiangtoeicfree"],
-    "type": "Drive",
-    "size": "89 KB",
-    "category": "Học tiếng anh",
-    "drive_url": "https://drive.google.com/drive/folders/1gTI0IzGTmpXGZhojmJBNrvPA6-gNfFIv"
-  },
-                                                                                                {
-    "id": 64,
-    "name": "Mẫu quản lý ngân sách Marketing",
-    "keywords": ["mauquanlyngansachmkt"],
-    "type": "Drive",
-    "size": "89 KB",
-    "category": "Khác",
-    "drive_url": "https://yspacevn.sg.larksuite.com/wiki/AKIawxJNdilSeIkTP2JlX2GqgKg?table=blkNPrc0TvNIEKmZ"
-  },
-                                                                                                  {
-    "id": 65,
-    "name": "Tiếng anh cho người mất gốc",
-    "keywords": ["tienganhchonguoimatgoc"],
-    "type": "Drive",
-    "size": "89 KB",
-    "category": "Học tiếng anh",
-    "drive_url": "https://drive.google.com/drive/folders/1F8_WPZrq2gmWD8JC-6zaVHVa_wURexAa"
-  },
-                                                                                                    {
-    "id": 66,
-    "name": "Mẫu quản lý bài đăng Social Media",
-    "keywords": ["mauquanlybaidangsocialmedia"],
-    "type": "Drive",
-    "size": "89 KB",
-    "category": "Template Marketing",
-    "drive_url": "https://yspacevn.sg.larksuite.com/wiki/Vt0gw0JWfipij2kYw2dlJcYXgKc?table=blk8EcneyXHd7gJZ"
-  },
-                                                                                                      {
-    "id": 67,
-    "name": "Plan đi Nhật",
-    "keywords": ["plandinhat"],
-    "type": "Drive",
-    "size": "89 KB",
-    "category": "Plan du lịch",
-    "drive_url": "https://docs.google.com/spreadsheets/d/14nx2gF0N0vvfMj308Yl6DKTciiupAmU6eKTS7ntWGcM/edit?gid=2119869414#gid=2119869414"
-  },
-                                                                                                        {
-    "id": 68,
-    "name": "Lập kế hoạch Marketing cùng AI",
-    "keywords": ["lapkehoachmktcungai"],
-    "type": "Drive",
-    "size": "89 KB",
-    "category": "Template Marketing",
-    "drive_url": "https://docs.google.com/document/d/1NjoEzjr88TcmqfVmUwPIhu4wVcLK1JV4/edit?tab=t.0"
-  },
-                                                                                                          {
-    "id": 69,
-    "name": "Tổng hợp KHÓA HỌC IELTS & TOEIC FREE",
-    "keywords": ["khoahoctafree"],
-    "type": "Drive",
-    "size": "89 KB",
-    "category": "Học tiếng anh",
-    "drive_url": "https://docs.google.com/spreadsheets/d/1fc2eKrk431PPKtebbHNv8s0X3jMzKQaTOxEw1PxM9PY/edit"
-  },
-                                                                                                            {
-    "id": 70,
-    "name": "Bảng thu chi du lịch",
-    "keywords": ["bangthuchidulich"],
-    "type": "Drive",
-    "size": "89 KB",
-    "category": "Template Du lịch",
-    "drive_url": "https://docs.google.com/spreadsheets/d/1RJP9if66RWsRIoSDPGoJ9Yc3xIVMmFiv-x2BDI86bcE/edit?gid=960523776#gid=960523776"
-  },
-                                                                                                              {
-    "id": 71,
-    "name": "Tổng hợp tài liệu ôn IELTS từ CƠ BẢN đến NÂNG CAO",
-    "keywords": ["tailieuonieltstucocandennangcao"],
-    "type": "Drive",
-    "size": "89 KB",
-    "category": "Học tiếng anh",
-    "drive_url": "https://docs.google.com/spreadsheets/d/1vaE0qaHm_yRSCVp3c77E4BKghR43GOQhC9uSxL-_IL0/edit?gid=0#gid=0"
-  },
-                                                                                                                {
-    "id": 72,
-    "name": "Tự tin học giao tiếp tiếng anh",
-    "keywords": ["tutingiaotieptienganh"],
-    "type": "Drive",
-    "size": "89 KB",
-    "category": "Học tiếng anh",
-    "drive_url": "https://drive.google.com/drive/folders/0B55XkHbegAC1dWNwLTJqR3pKaWM?resourcekey=0-_QDVOEwg6frEbZ63FsnhNA"
-  },
-                                                                                                                  {
-    "id": 73,
+  {
+    "id": 51,
     "name": "Plan đi thái",
-    "keywords": ["plandithai"],
+    "keywords": [
+      "plandithai"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Plan du lịch",
     "drive_url": "https://docs.google.com/spreadsheets/d/1V4IZ9etX-dsKRJP2uABrDIWF5gA4YIIRiH7hvwedysA/edit?gid=1131123647#gid=1131123647"
   },
-                                                                                                                    {
-    "id": 74,
-    "name": "Từ lóng giới trẻ Trung Quốc hay dùng",
-    "keywords": ["tulonggioitrehaydung"],
+  {
+    "id": 52,
+    "name": "Tài liệu IELTS NGUYỄN HUYỀN",
+    "keywords": [
+      "tailieutanguyenhuyen"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/11Vl0qOAlmXzHJO8LglDv1Uz-cpjoIlct"
+  },
+  {
+    "id": 53,
+    "name": "Bài giảng TOEIC free",
+    "keywords": [
+      "baigiangtoeicfree"
+    ],
+    "type": "Drive",
+    "size": "—",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1gTI0IzGTmpXGZhojmJBNrvPA6-gNfFIv"
+  },
+  {
+    "id": 54,
+    "name": "Mẫu quản lý ngân sách Marketing",
+    "keywords": [
+      "mauquanlyngansachmkt"
+    ],
+    "type": "Drive",
+    "size": "103 KB",
+    "category": "Template marketing",
+    "drive_url": "https://yspacevn.sg.larksuite.com/wiki/AKIawxJNdilSeIkTP2JlX2GqgKg?table=blkNPrc0TvNIEKmZ"
+  },
+  {
+    "id": 55,
+    "name": "Tiếng anh cho người mất gốc",
+    "keywords": [
+      "tienganhchonguoimatgoc"
+    ],
+    "type": "Drive",
+    "size": "—",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1F8_WPZrq2gmWD8JC-6zaVHVa_wURexAa"
+  },
+  {
+    "id": 56,
+    "name": "Mẫu quản lý bài đăng Social Media",
+    "keywords": [
+      "mauquanlybaidangsocialmedia"
+    ],
+    "type": "Drive",
+    "size": "104 KB",
+    "category": "Template marketing",
+    "drive_url": "https://yspacevn.sg.larksuite.com/wiki/Vt0gw0JWfipij2kYw2dlJcYXgKc?table=blk8EcneyXHd7gJZ"
+  },
+  {
+    "id": 57,
+    "name": "Plan đi Nhật",
+    "keywords": [
+      "plandinhat"
+    ],
+    "type": "Drive",
+    "size": "—",
     "category": "Plan du lịch",
+    "drive_url": "https://docs.google.com/spreadsheets/d/14nx2gF0N0vvfMj308Yl6DKTciiupAmU6eKTS7ntWGcM/edit?gid=2119869414#gid=2119869414"
+  },
+  {
+    "id": 58,
+    "name": "Lập kế hoạch Marketing cùng AI",
+    "keywords": [
+      "lapkehoachmktcungai"
+    ],
+    "type": "Drive",
+    "size": "105 KB",
+    "category": "Template marketing",
+    "drive_url": "https://docs.google.com/document/d/1NjoEzjr88TcmqfVmUwPIhu4wVcLK1JV4/edit?tab=t.0"
+  },
+  {
+    "id": 59,
+    "name": "Tổng hợp KHÓA HỌC IELTS & TOEIC FREE",
+    "keywords": [
+      "khoahoctafree"
+    ],
+    "type": "Drive",
+    "size": "—",
+    "category": "Học tiếng anh",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1fc2eKrk431PPKtebbHNv8s0X3jMzKQaTOxEw1PxM9PY/edit"
+  },
+  {
+    "id": 60,
+    "name": "Bảng thu chi du lịch",
+    "keywords": [
+      "bangthuchidulich"
+    ],
+    "type": "Drive",
+    "size": "—",
+    "category": "Plan du lịch",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1RJP9if66RWsRIoSDPGoJ9Yc3xIVMmFiv-x2BDI86bcE/edit?gid=960523776#gid=960523776"
+  },
+  {
+    "id": 61,
+    "name": "Tổng hợp tài liệu ôn IELTS từ CƠ BẢN đến NÂNG CAO",
+    "keywords": [
+      "tailieuonieltstucocandennangcao"
+    ],
+    "type": "Drive",
+    "size": "—",
+    "category": "Học tiếng anh",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1vaE0qaHm_yRSCVp3c77E4BKghR43GOQhC9uSxL-_IL0/edit?gid=0#gid=0"
+  },
+  {
+    "id": 62,
+    "name": "Tự tin học giao tiếp tiếng anh",
+    "keywords": [
+      "tutingiaotieptienganh"
+    ],
+    "type": "Drive",
+    "size": "—",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/0B55XkHbegAC1dWNwLTJqR3pKaWM?resourcekey=0-_QDVOEwg6frEbZ63FsnhNA"
+  },
+  {
+    "id": 63,
+    "name": "Từ lóng giới trẻ Trung Quốc hay dùng",
+    "keywords": [
+      "tulonggioitrehaydung"
+    ],
+    "type": "Drive",
+    "size": "—",
+    "category": "Học tiếng trung",
     "drive_url": "https://docs.google.com/document/d/1WFAVkCpJcO3o1r1K5_tkTuNjmiRAy83RuZghz_adMIw/edit?tab=t.0"
   },
-                                                                                                                      {
-    "id": 75,
+  {
+    "id": 64,
     "name": "96 bài giảng cho người mất gốc tiếng Anh",
-    "keywords": ["96baigiangtienganh"],
+    "keywords": [
+      "96baigiangtienganh"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/1lUrJaSzeAIziWK0b3TrHRNlGZdzdQvh2"
   },
-                                                                                                                        {
-    "id": 76,
+  {
+    "id": 65,
     "name": "21 ngày xây nền tiếng Anh cô Phạm Liễu",
-    "keywords": ["21ngayxaynentienganhcophamlieu"],
+    "keywords": [
+      "21ngayxaynentienganhcophamlieu"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/file/d/12yiykeroQH-hjkN4O0823nDwxJGv-tSy/view"
   },
-                                                                                                                          {
-    "id": 77,
+  {
+    "id": 66,
     "name": "Prep nền tảng tiếng anh",
-    "keywords": ["prepnentangtienganh"],
+    "keywords": [
+      "prepnentangtienganh"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/10AnTwd3XQLBbYZS0Me_agnB-eyT1wmml"
   },
-                                                                                                                            {
-    "id": 78,
+  {
+    "id": 67,
     "name": "Trọn bộ IELTS cô Nguyễn Huyền",
-    "keywords": ["tronboieltsconguyenhuyen"],
+    "keywords": [
+      "tronboieltsconguyenhuyen"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/1bZQx3VcOOZtTN17HELgzGWOvSTDhaLI0"
   },
-                                                                                                                              {
-    "id": 79,
+  {
+    "id": 68,
     "name": "Minh Châu IELTS",
-    "keywords": ["minhchauielts"],
+    "keywords": [
+      "minhchauielts"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "—",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/1vOaNTB8C6CtlWtJ-7UrgAwpgtg4tD6iv"
   },
-                                                                                                                                {
-    "id": 80,
+  {
+    "id": 69,
     "name": "Plan đi Ninh Bình",
-    "keywords": ["plandininhbinh"],
+    "keywords": [
+      "plandininhbinh"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "106 KB",
     "category": "Plan du lịch",
     "drive_url": "https://docs.google.com/spreadsheets/d/1u-jxhgEPUAyov2wNd_fbcd9Glx792RIgc-cVgWonRTo/edit?gid=1149466364#gid=1149466364"
   },
-                                                                                                                                  {
-    "id": 82,
+  {
+    "id": 70,
     "name": "IELTS 4.0-5.0",
-    "keywords": ["ielts4den5"],
+    "keywords": [
+      "ielts4den5"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "107 KB",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/15pnRGwjCt7kjOcMUAmvRhDh0jUoZnNUU"
   },
-                                                                                                                                    {
-    "id": 83,
+  {
+    "id": 71,
     "name": "IELTS 5.0-6.5",
-    "keywords": ["ielts5den6.5"],
+    "keywords": [
+      "ielts5den6.5"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "108 KB",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/1kevdwoxy_n1Gl4ZMT5ZJrotdO2_BC12-"
   },
-                                                                                                                                    {
-    "id": 84,
-    "name": "IELTS 8.5",
-    "keywords": ["ielts8.5"],
-    "type": "Drive",
-    "size": "89 KB",
-    "category": "Học tiếng anh",
-    "drive_url": "https://drive.google.com/drive/folders/1PRmJgR0C2w3HnakB5DGq4bmQNA8-OUfT"
-  },
-                                                                                                                                    {
-    "id": 85,
+  {
+    "id": 72,
     "name": "IELTS 6.5-7.5",
-    "keywords": ["ielts6den7.5"],
+    "keywords": [
+      "ielts6den7.5"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "109 KB",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/14eW-y8k9CMx6SWo2J5Gmkwa2olI32EjV"
   },
-                                                                                                                                      {
-    "id": 86,
-    "name": "Ngữ pháp tiếng trung HSK1-5",
-    "keywords": ["nguphaptiengtrunghsk1-5"],
+  {
+    "id": 73,
+    "name": "IELTS 8.5",
+    "keywords": [
+      "ielts8.5"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "110 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1PRmJgR0C2w3HnakB5DGq4bmQNA8-OUfT"
+  },
+  {
+    "id": 74,
+    "name": "Ngữ pháp tiếng trung HSK1-5",
+    "keywords": [
+      "nguphaptiengtrunghsk1-5"
+    ],
+    "type": "Drive",
+    "size": "111 KB",
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1CQ4G5Wc1ueMnH_vt13jIND8dIRFTkklX"
   },
-                                                                                                                                        {
-    "id": 87,
+  {
+    "id": 75,
     "name": "IELTS tổng hợp",
-    "keywords": ["IELTStonghop"],
+    "keywords": [
+      "IELTStonghop"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "112 KB",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/1SnALbwejeH8QTmzOrMY98eFMuAIguSFe"
   },
-                                                                                                                                        {
-    "id": 88,
+  {
+    "id": 76,
     "name": "TOEIC tổng hợp",
-    "keywords": ["TOEICtonghop"],
+    "keywords": [
+      "TOEICtonghop"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "113 KB",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/11BslvSFeQekk2xgoQ9pFWCSt-vsoyX6o"
   },
-                                                                                                                                        {
-    "id": 89,
+  {
+    "id": 77,
     "name": "HSK tổng hợp",
-    "keywords": ["HSKtonghop"],
+    "keywords": [
+      "HSKtonghop"
+    ],
     "type": "Drive",
-    "size": "89 KB",
+    "size": "114 KB",
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/19s9DvoZUQMTN3DyaKMCWDe5Dl21PZM6g"
   },
-    {
-    "id": 90,
+  {
+    "id": 78,
     "name": "NỀN TẢNG TOÁN THẦY ĐỖ VĂN ĐỨC",
     "keywords": [
       "nentangtoanthaydovanduc"
@@ -798,41 +857,63 @@
     "category": "Khác",
     "drive_url": "https://docs.google.com/spreadsheets/d/1uvOM-Zu_X0MTbT_5L75JwBsMY2RMwl43e_diQJkgLGA/edit?gid=0#gid=0"
   },
-    {
-    "id": 91,
+  {
+    "id": 79,
     "name": "Tổng hợp các món đồ cho bé sơ sinh",
     "keywords": [
       "cacmondochobesosinh"
     ],
     "type": "Drive",
     "size": "114 KB",
-    "category": "Khác",
+    "category": "Mẹ và bé",
     "drive_url": "https://docs.google.com/spreadsheets/d/1eGdeVPfPpXaGRMIBZqtT5tg9bWOzlUOyoWLpqBoPjLk/edit?gid=1651936050#gid=1651936050"
   },
-    {																									
-    "id": 92,																									
-    "name": "FULL từ vựng tiếng Trung chuyên ngành",																									
-    "keywords": [																									
-      "fulltuvungtiengtrungchuyennganh"																									
-    ],																									
-    "type": "Drive",																									
-    "size": "114 KB",																									
-    "category": "Học tiếng trung",																									
-    "drive_url": "https://drive.google.com/drive/folders/1bhfTDo7434P6Nbc_OheTXEbyVR4nHcFp?usp=sharing"																									
-  },	
-    {
-    "id": 93,
+  {
+    "id": 80,
+    "name": "FULL từ vựng tiếng Trung chuyên ngành",
+    "keywords": [
+      "fulltuvungtiengtrungchuyennganh"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/1bhfTDo7434P6Nbc_OheTXEbyVR4nHcFp?usp=sharing"
+  },
+  {
+    "id": 81,
     "name": "Kế hoạch quản lý kênh",
     "keywords": [
       "kehoachquanlyxaykenh"
     ],
     "type": "Drive",
     "size": "114 KB",
-    "category": "Template Marketing",
+    "category": "Template marketing",
     "drive_url": "https://docs.google.com/spreadsheets/d/1k8LVj7p_diL1HL_JfAfXX25uOA_uGduglAwIwCoF0WI/edit?fbclid=IwY2xjawML8-RleHRuA2FlbQIxMABicmlkETE2ZVlwWXFUT0Q3NzBvaHB6AR5iUVRtztV-4k6JsXXyB0agUemT8jJcnhRoHljOlykwdZE_Vq4oeVLoY2Ictg_aem_BAdJRB7epmxvnoPJph719w&gid=1025903693#gid=1025903693"
   },
-    {
-    "id": 94,
+  {
+    "id": 82,
+    "name": "File checklist chuẩn SEO",
+    "keywords": [
+      "filechecklistchuanseo"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Template marketing",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1e6iRPKjPskkKWjBWTNeyLUJVXg12SWe83JwJmU2U21s/edit?gid=114177544#gid=114177544"
+  },
+  {
+    "id": 83,
+    "name": "File mẫu Marcom Plan",
+    "keywords": [
+      "filemaumarcomplan"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Template marketing",
+    "drive_url": "https://docs.google.com/spreadsheets/d/13bn-eFMFTfCAgsHTN82T_6hdREhncR6VoVkGDpX2vBs/edit?gid=64682459#gid=64682459"
+  },
+  {
+    "id": 84,
     "name": "TOPIK 300+",
     "keywords": [
       "topik300"
@@ -843,7 +924,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1ekNygytt1hEA3swiMFQKpx1o-fqpcUhW"
   },
   {
-    "id": 95,
+    "id": 85,
     "name": "YONSEI TOPIK",
     "keywords": [
       "yonseitopik"
@@ -854,7 +935,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1O42MX3IIAyZzsl2VEK5KWHJFe_kbTZgb"
   },
   {
-    "id": 96,
+    "id": 86,
     "name": "MASTER TOPIK",
     "keywords": [
       "mastertopik"
@@ -865,7 +946,7 @@
     "drive_url": "https://drive.google.com/drive/folders/10Vue7vCpyR6qLJD3LN2mWhW6e-UpeQ4g"
   },
   {
-    "id": 97,
+    "id": 87,
     "name": "12 đề công khai",
     "keywords": [
       "12madecongkhai"
@@ -875,8 +956,19 @@
     "category": "Học tiếng Hàn",
     "drive_url": "https://drive.google.com/drive/folders/1QN59V7x_sWYhKVDYFTsVXaWCv1Al1n6T"
   },
-    {
-    "id": 98,
+  {
+    "id": 88,
+    "name": "Tài liệu ôn thi Ielts từ cơ bản đến nâng cao",
+    "keywords": [
+      "tailieuonthiielts"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1c5wx3bFptrFXfGB2c4aYigzLraUjFkNDbM2pQu-wBkQ/edit"
+  },
+  {
+    "id": 89,
     "name": "ENGLISH A1",
     "keywords": [
       "ENGLISH A1"
@@ -887,7 +979,7 @@
     "drive_url": "https://drive.google.com/file/d/15C81-lbblweVLHtCThTHSVbWCwQyCA9v/view"
   },
   {
-    "id": 99,
+    "id": 90,
     "name": "ENGLISH A2",
     "keywords": [
       "ENGLISH A2"
@@ -898,7 +990,7 @@
     "drive_url": "https://drive.google.com/file/d/18hwIIycZFk6z6iNIAQMdMjRecQBQQ-N5/view"
   },
   {
-    "id": 100,
+    "id": 91,
     "name": "ENGLISH B1",
     "keywords": [
       "ENGLISH B1"
@@ -909,7 +1001,7 @@
     "drive_url": "https://drive.google.com/file/d/1w1QCw9OwVXTJIaOGvYyXjZDxH1gkHeMe/view"
   },
   {
-    "id": 101,
+    "id": 92,
     "name": "ENGLISH B2",
     "keywords": [
       "ENGLISH B2"
@@ -920,7 +1012,7 @@
     "drive_url": "https://drive.google.com/file/d/1w1QCw9OwVXTJIaOGvYyXjZDxH1gkHeMe/view"
   },
   {
-    "id": 102,
+    "id": 93,
     "name": "ENGLISH C1",
     "keywords": [
       "ENGLISH C1"
@@ -930,19 +1022,19 @@
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/file/d/1BehineIrzElz47D4vpAkae3Qhm0ENDrM/view"
   },
-    {
-    "id": 103,
+  {
+    "id": 94,
     "name": "Ứng dụng AI trong công việc",
     "keywords": [
       "ungdungaitrongcongviec"
     ],
     "type": "Drive",
     "size": "114 KB",
-    "category": "Khác",
+    "category": "AI",
     "drive_url": "https://drive.google.com/drive/folders/1IRy9VT9sz0EXTjkzpWGnF-fHBwbURovc"
   },
-    {
-    "id": 104,
+  {
+    "id": 95,
     "name": "Video bài giảng Hán Ngữ 1-6",
     "keywords": [
       "videobaigianghanngu1-6"
@@ -953,7 +1045,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1Rlf6KFDA4mT4gcEChctka9ZXdBiJv-CG"
   },
   {
-    "id": 105,
+    "id": 96,
     "name": "Tài liệu ôn thi HSK1-HSK4",
     "keywords": [
       "onthihsk1-4"
@@ -963,41 +1055,8 @@
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1MVLYYBQ00B7oJ8LUQ89DtywcdhE5BJdS"
   },
-    {
-    "id": 106,
-    "name": "File checklist chuẩn SEO",
-    "keywords": [
-      "filechecklistchuanseo"
-    ],
-    "type": "Drive",
-    "size": "114 KB",
-    "category": "Template Marketing",
-    "drive_url": "https://docs.google.com/spreadsheets/d/1e6iRPKjPskkKWjBWTNeyLUJVXg12SWe83JwJmU2U21s/edit?gid=114177544#gid=114177544"
-  },
-    {
-    "id": 107,
-    "name": "File mẫu Marcom Plan",
-    "keywords": [
-      "filemaumarcomplan"
-    ],
-    "type": "Drive",
-    "size": "114 KB",
-    "category": "Template Marketing",
-    "drive_url": "https://docs.google.com/spreadsheets/d/13bn-eFMFTfCAgsHTN82T_6hdREhncR6VoVkGDpX2vBs/edit?gid=64682459#gid=64682459"
-  },
-    {
-    "id": 108,
-    "name": "Tài liệu ôn thi Ielts từ cơ bản đến nâng cao",
-    "keywords": [
-      "tailieuonthiielts"
-    ],
-    "type": "Drive",
-    "size": "114 KB",
-    "category": "Học tiếng anh",
-    "drive_url": "https://docs.google.com/spreadsheets/d/1c5wx3bFptrFXfGB2c4aYigzLraUjFkNDbM2pQu-wBkQ/edit"
-  },
-    {
-    "id": 109,
+  {
+    "id": 97,
     "name": "Từ vựng tiếng Trung ( Theo ngành )",
     "keywords": [
       "tuvungtheonganh"
@@ -1008,7 +1067,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1Ur5ZUnozNokPBN2rNeLSXho1Zn0U91NR?usp=drive_link"
   },
   {
-    "id": 110,
+    "id": 98,
     "name": "72 đề thi HSK 1-6 ( Có File Nghe )",
     "keywords": [
       "72dethihsk1-6"
@@ -1018,19 +1077,19 @@
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1Fw-FjqtlCFs6ALYe3rqRQYPIKcMK_ylN?usp=drive_link"
   },
-    {
-    "id": 111,
+  {
+    "id": 99,
     "name": "Full thư viện tự động Claude Code",
     "keywords": [
       "fullthuvientudongclaudecode"
     ],
     "type": "Drive",
     "size": "114 KB",
-    "category": "Khác",
+    "category": "AI",
     "drive_url": "https://drive.google.com/drive/folders/1OsKMjTyxb4ke9zzQT5AgCo9uBpCoC04i?usp=drive_link"
   },
-    {
-    "id": 112,
+  {
+    "id": 100,
     "name": "Kế hoạch phát triển bản thân",
     "keywords": [
       "kehoachphattrienbanthan"
@@ -1040,96 +1099,162 @@
     "category": "Khác",
     "drive_url": "https://docs.google.com/spreadsheets/d/1gOveSJ_L3LKJbUFSNIHIOeBsh-jfB073BapZ3XqZq_U/edit?gid=1381315775#gid=1381315775"
   },
-        {
-    "id": 120,
+  {
+    "id": 101,
+    "name": "Tài liệu IELTS tổng hợp nhiều nguồn",
+    "keywords": [
+      "tailieuieltsnhieunguon"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1V-C6z2OVm_YXalpnHdzIc9c-yHFKXQsTVdez58LSywg/edit?gid=0#gid=0"
+  },
+  {
+    "id": 102,
+    "name": "Hợp đồng Pr booking.docx",
+    "keywords": [
+      "Hopdongbookingpr"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Biểu mẫu",
+    "drive_url": "https://docs.google.com/document/d/1RJoCIf9OyLHHu24LCU9QT6gDcflvb1lQ/edit?tab=t.0"
+  },
+  {
+    "id": 103,
+    "name": "Hợp đồng booking KOL, UGC.docx",
+    "keywords": [
+      "hopdongbookingkolugc"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Biểu mẫu",
+    "drive_url": "https://docs.google.com/document/d/1bXYlbQBv0Y2L2S1L4rNj4fmSIimQ0bh1/edit?tab=t.0"
+  },
+  {
+    "id": 104,
+    "name": "HĐCTV_khoán việc.docx",
+    "keywords": [
+      "hdctvkhoanviec"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Biểu mẫu",
+    "drive_url": "https://docs.google.com/document/d/1C1fTS7HoPb7Z0rY3YKIPD4Q3I-KwHvXV/edit?rtpof=true&sd=true"
+  },
+  {
+    "id": 105,
+    "name": "Biên bản nghiệm thu công việc từng phần theo tháng với CTV.docx",
+    "keywords": [
+      "bienbannghiemthucvctv"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Biểu mẫu",
+    "drive_url": "https://docs.google.com/document/d/1YiXZkzLVOJnBTDiVnEWH3Bi4d5qBFFKj/edit?tab=t.0"
+  },
+  {
+    "id": 106,
+    "name": "Hoá đơn nháp.docx",
+    "keywords": [
+      "hoadonnhap"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Biểu mẫu",
+    "drive_url": "https://docs.google.com/document/d/1a9i0Yxu9LvbMONCUqvkjiSt022wY3DG_/edit?tab=t.0"
+  },
+  {
+    "id": 107,
     "name": "NGHỀ CONTENT_ TỔNG HỢP 500 CÂU HOOK TRIỆU VIEW",
     "keywords": [
       "500cauhooktrieuview"
     ],
     "type": "Drive",
     "size": "114 KB",
-    "category": "Marketing",
+    "category": "Template marketing",
     "drive_url": "https://docs.google.com/document/d/1kwOpHuOM7_dSFdo46g573wLynuRZ87JTD5tlSl_XpBY/edit?tab=t.0"
   },
   {
-    "id": 121,
+    "id": 108,
     "name": "Bộ Từ Khóa Thôi Miên",
     "keywords": [
       "botukhoathoimien"
     ],
     "type": "Drive",
     "size": "114 KB",
-    "category": "Marketing",
+    "category": "Template marketing",
     "drive_url": "https://docs.google.com/spreadsheets/d/1NDbbMWdPm8HQMwKEtIlNlMVf1o_0riS2DK9Bsp7CEZ0/edit?gid=0#gid=0"
   },
   {
-    "id": 122,
+    "id": 109,
     "name": "Luật của nền tảng Tiktok",
     "keywords": [
       "luatcuanentangtiktok"
     ],
     "type": "Drive",
     "size": "114 KB",
-    "category": "Marketing",
+    "category": "Template marketing",
     "drive_url": "https://docs.google.com/document/d/1eQ0-8x4hllwVxOTf7n59CYUBSDHAboQgydSOeebfdSc/edit?tab=t.0#heading=h.8uwbbfcqrdz"
   },
   {
-    "id": 123,
+    "id": 110,
     "name": "|NGHỀ CONTENT| MẪU KỊCH BẢN VIDEO",
     "keywords": [
       "maukichbanvideo"
     ],
     "type": "Drive",
     "size": "114 KB",
-    "category": "Marketing",
+    "category": "Template marketing",
     "drive_url": "https://docs.google.com/spreadsheets/d/1M7Rmzx_pfJuBorUued9xf3U0LJ6OG_sirYFDM6_PXuQ/edit"
   },
   {
-    "id": 124,
+    "id": 111,
     "name": "Nghề Content | Tổng hợp 199 cách đặt tiêu đề | 07.2025",
     "keywords": [
       "199cachdattieude"
     ],
     "type": "Drive",
     "size": "114 KB",
-    "category": "Marketing",
+    "category": "Template marketing",
     "drive_url": "https://docs.google.com/spreadsheets/d/1X7VVoQ413SghDCl_a0ejs1DbGhH1yrsu5e66Ly4VrSA/edit?gid=0#gid=0"
   },
   {
-    "id": 125,
+    "id": 112,
     "name": "NGHỀ CONTENT_TEMPLATE THU THẬP CMT",
     "keywords": [
       "Templatethuthapcmt"
     ],
     "type": "Drive",
     "size": "114 KB",
-    "category": "Marketing",
+    "category": "Template marketing",
     "drive_url": "https://docs.google.com/spreadsheets/d/1PJUxzjyXXShawvdO87bhyE7-QePi4qgpNR9zU8Lrpis/edit"
   },
   {
-    "id": 126,
+    "id": 113,
     "name": "NGHỀ CONTENT_ TỔNG HỢP 204 CÂU HOOK TRIỆU VIEW",
     "keywords": [
       "tonghop204cauhooktrieuview"
     ],
     "type": "Drive",
     "size": "114 KB",
-    "category": "Marketing",
+    "category": "Template marketing",
     "drive_url": "https://docs.google.com/document/d/1cIvhE_m7LpQm9aQ045OF-Bs3OJMzpadBrE4GRi0eOuY/edit?tab=t.0"
   },
   {
-    "id": 127,
+    "id": 114,
     "name": "NGHỀ CONTENT_ SIÊU TÀI LIỆU (cập nhật dần ạ)",
     "keywords": [
       "sieutailieunghecontent"
     ],
     "type": "Drive",
     "size": "114 KB",
-    "category": "Marketing",
+    "category": "Template marketing",
     "drive_url": "https://docs.google.com/spreadsheets/d/1tW35tij52AvOJYJe-W78Ac8x8UemjgcN_445SuLZ0p4/edit?gid=0#gid=0"
   },
   {
-    "id": 128,
+    "id": 115,
     "name": "MauHopDongThue_Matbang",
     "keywords": [
       "mauhopdongthuematbang"
@@ -1140,7 +1265,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1qqxhSrf2hAQd6Zn_OGjBRlaiEUOYcjbW"
   },
   {
-    "id": 129,
+    "id": 116,
     "name": "KNBL_HopDongGopVon.doc",
     "keywords": [
       "hopdonggopvon"
@@ -1151,8 +1276,8 @@
     "drive_url": "https://drive.google.com/file/d/1fwhdi-FaGI-bTrjFs1-KX20gMKfcwuWA/view"
   },
   {
-    "id": 130,
-    "name": "2.BangCauHoiPhongVan.docx",
+    "id": 117,
+    "name": "Bảng câu hỏi phỏng vấn",
     "keywords": [
       "bangcauhoiphongvan"
     ],
@@ -1162,8 +1287,8 @@
     "drive_url": "https://drive.google.com/file/d/1XwO81f927iJ0LtYDyMvaUi2z25lrPwyv/view"
   },
   {
-    "id": 131,
-    "name": "3.ThoaThuanThuViec.docx",
+    "id": 118,
+    "name": "Thỏa thuận thử việc",
     "keywords": [
       "thoathuanthuviec"
     ],
@@ -1172,8 +1297,8 @@
     "category": "Nhân sự",
     "drive_url": "https://drive.google.com/file/d/14KgdUL61SPinvz-KcpahIskmZFHHIEuD/view"
   },
-        {
-    "id": 132,
+  {
+    "id": 119,
     "name": "Bộ đề HSK Yangdexin",
     "keywords": [
       "bodehskyangdexin"
@@ -1183,19 +1308,8 @@
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/19DE9fXfKZRAJTdHWKOxQxUhq63Sb7NmB"
   },
-        {
-    "id": 133,
-    "name": "Bộ 50+ khoá học miễn phí",
-    "keywords": [
-      "50khoahocmienphi"
-    ],
-    "type": "Drive",
-    "size": "114 KB",
-    "category": "Khác",
-    "drive_url": "https://drive.google.com/drive/folders/1vhdVSbDanSp_Zxv1og_WOEqC6ILm0QFu"
-  },
-        {
-    "id": 134,
+  {
+    "id": 120,
     "name": "Kho tài liệu IELTS",
     "keywords": [
       "khotailieuielts"
@@ -1206,7 +1320,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1AJ-cBn45sYAWg4FuHnB1APk2twmmCx-f"
   },
   {
-    "id": 135,
+    "id": 121,
     "name": "4.QuyTrinhBanHang7Buoc_BINGO.docx",
     "keywords": [
       "quytrinhbanhang7buoc"
@@ -1217,8 +1331,8 @@
     "drive_url": "https://drive.google.com/file/d/1jhlSJAQ7blxCadQn2RTcvQ6dOO8vdany/view"
   },
   {
-    "id": 136,
-    "name": "5.HopDongLaoDong.docx",
+    "id": 122,
+    "name": "Hợp đồng lao động",
     "keywords": [
       "hopdonglaodong"
     ],
@@ -1228,8 +1342,8 @@
     "drive_url": "https://drive.google.com/file/d/1kWSEIXxsNCR6uxV8rQZBWTGs0ZvhwQQH/view"
   },
   {
-    "id": 137,
-    "name": "6.BangMoTaCongViec.docx",
+    "id": 123,
+    "name": "Bảng mô tả công việc",
     "keywords": [
       "bangmotacongviec"
     ],
@@ -1239,7 +1353,7 @@
     "drive_url": "https://drive.google.com/file/d/1Wttr4cnPzttEVZRC1MRPNzB-aXVH72k1/view"
   },
   {
-    "id": 138,
+    "id": 124,
     "name": "7.NoiQuyCuaHang.docx",
     "keywords": [
       "noiquycuahang"
@@ -1250,7 +1364,7 @@
     "drive_url": "https://drive.google.com/file/d/1SwAJksj8XcFB1xYoQOvlMDUQdAPUqmMP/view"
   },
   {
-    "id": 139,
+    "id": 125,
     "name": "25 công thức viết content quảng cáo kèm ví dụ thực tế",
     "keywords": [
       "25congthucvietcontent"
@@ -1261,7 +1375,7 @@
     "drive_url": "https://drive.google.com/file/d/1vC-xu11nPijBdFoIs_SPVPbPR7CxdnMs/view"
   },
   {
-    "id": 140,
+    "id": 126,
     "name": "100 MẪU TIÊU ĐỀ QUẢNG CÁO TRIỆU VIEW.pdf",
     "keywords": [
       "100mautieudequangcaotrieuview"
@@ -1272,7 +1386,7 @@
     "drive_url": "https://drive.google.com/file/d/10Z65A9EyeILW-UcXYrNNpocPQFiJuRR8/view"
   },
   {
-    "id": 141,
+    "id": 127,
     "name": "7 Chiến lược định giá sản phẩm khuyễn mãi",
     "keywords": [
       "chienluocdinhgiasanphamtrongkhuyenmai"
@@ -1283,7 +1397,7 @@
     "drive_url": "https://drive.google.com/file/d/1zFLXqeS35UbE3vzW75Iq0j4RIc7EBveb/view"
   },
   {
-    "id": 142,
+    "id": 128,
     "name": "Tuyệt chiêu livestream bán hàng hiệu quả",
     "keywords": [
       "tuyetchieulivestreambanhang"
@@ -1294,7 +1408,7 @@
     "drive_url": "https://drive.google.com/file/d/1Qa6SVj6dqJfVtBjLXNYcHhtdIHXoxI42/view"
   },
   {
-    "id": 143,
+    "id": 129,
     "name": "Những mẫu tin nhắn cảm ơn khách hàng",
     "keywords": [
       "nhungmautinnhancamonkhachhang"
@@ -1305,7 +1419,7 @@
     "drive_url": "https://drive.google.com/file/d/18I2E8QHrV6Oji_sX__PeeTCAaROe9hqK/view"
   },
   {
-    "id": 144,
+    "id": 130,
     "name": "CÔNG THỨC TÍNH GIÁ SẢN PHẨM TRÊN SHOPEE.xlsx",
     "keywords": [
       "congthuctinhgiasptrenshopee"
@@ -1316,7 +1430,7 @@
     "drive_url": "https://drive.google.com/file/d/1_x4krDr3IFCuqmRmEj6qYTvCzq0IrdVf/view"
   },
   {
-    "id": 145,
+    "id": 131,
     "name": "Màu sắc chủ đạo theo ngành hàng",
     "keywords": [
       "mausacchudaotheonganhhang"
@@ -1327,7 +1441,7 @@
     "drive_url": "https://drive.google.com/file/d/1PWiIPCAXFDFA_kUd_JwG6vRPGq-Gb-z-/view"
   },
   {
-    "id": 146,
+    "id": 132,
     "name": "Nội quy và chế độ làm việc",
     "keywords": [
       "noiquyvachedolamviec"
@@ -1338,7 +1452,7 @@
     "drive_url": "https://docs.google.com/document/d/1rm6CT3b3hAmAmZsRONLigCXCuy2zdr3of0Jhb2CCLf4/edit?tab=t.0#heading=h.juoyyukrfcef"
   },
   {
-    "id": 147,
+    "id": 133,
     "name": "Chi Phí Bán Hàng TMĐT 2025",
     "keywords": [
       "chiphibanhangtmdt2025"
@@ -1349,7 +1463,7 @@
     "drive_url": "https://docs.google.com/spreadsheets/d/1Q0jLU8SlnEzHUn75YGS7pacjUQ46mk2U5PAeEy_0F0o/edit?gid=0#gid=0"
   },
   {
-    "id": 148,
+    "id": 134,
     "name": "[FREE] Bộ 50+ khóa học miễn phí 💸",
     "keywords": [
       "50khoahocmienphi"
@@ -1360,7 +1474,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1NSS2nsrh9LPxT68tupUSB6PC34uzyz5_"
   },
   {
-    "id": 149,
+    "id": 135,
     "name": "Quản lý Tài chính Cá nhân",
     "keywords": [
       "quanlytaichinhcanhan"
@@ -1371,7 +1485,7 @@
     "drive_url": "https://docs.google.com/spreadsheets/d/1slTxo2qSYri5OCF8T2x2RM9q_uVhjF7IsJav5tSVR0o/edit?gid=536342547#gid=536342547"
   },
   {
-    "id": 150,
+    "id": 136,
     "name": "Writing Curriculum",
     "keywords": [
       "WritingCurriculum"
@@ -1381,8 +1495,8 @@
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/1bIkNkpY-2-txiikWkx6Ry_ZLlSmdB_bB"
   },
-        {
-    "id": 151,
+  {
+    "id": 137,
     "name": "Tiếng Trung cơ bản cho người mới bắt đầu p1",
     "keywords": [
       "tiengtrungcobanchonguoimoi1"
@@ -1393,7 +1507,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1SDUznT5z0gnnUw9blE6ExRnQTQI35pC6"
   },
   {
-    "id": 152,
+    "id": 138,
     "name": "Tiếng Trung cơ bản cho người mới bắt đầu p2",
     "keywords": [
       "tiengtrungcobanchonguoimoi2"
@@ -1404,7 +1518,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1gMcJZmSs_kuVEsm00cZiFPl4szVtmmVO?usp=drive_link"
   },
   {
-    "id": 153,
+    "id": 139,
     "name": "Tiếng Trung cơ bản cho người mới bắt đầu p3",
     "keywords": [
       "tiengtrungcobanchonguoimoi3"
@@ -1414,8 +1528,8 @@
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1-wks_0CXN9-zVdUFsTYupttu0laa1YDg?usp=drive_link"
   },
-        {
-    "id": 154,
+  {
+    "id": 140,
     "name": "Ngữ pháp HSK1",
     "keywords": [
       "nguphaphsk1"
@@ -1423,10 +1537,10 @@
     "type": "Drive",
     "size": "114 KB",
     "category": "Học tiếng trung",
-    "drive_url": "https://drive.google.com/drive/folders/1ZMX5OkcvkNP3F5admBNtT0F2wrel4EE1"
+    "drive_url": "https://drive.google.com/file/d/1heArp6eWvadQtzJ4XSDMc-mlGoajAIKc/view?usp=drive_link"
   },
-        {
-    "id": 155,
+  {
+    "id": 141,
     "name": "Ngữ pháp HSK2",
     "keywords": [
       "nguphaphsk2"
@@ -1434,10 +1548,10 @@
     "type": "Drive",
     "size": "114 KB",
     "category": "Học tiếng trung",
-    "drive_url": "https://drive.google.com/drive/folders/1Fk8URIPsBudrPtO7hz_KgZJNO_OF8h_N?usp=drive_link"
+    "drive_url": "https://drive.google.com/file/d/1LwSLd2XJA8mpvjkNF3X7jf3xzyTvOwvw/view?usp=drive_link"
   },
   {
-    "id": 156,
+    "id": 142,
     "name": "Ngữ pháp HSK3",
     "keywords": [
       "nguphaphsk3"
@@ -1445,10 +1559,10 @@
     "type": "Drive",
     "size": "114 KB",
     "category": "Học tiếng trung",
-    "drive_url": "https://drive.google.com/drive/folders/1_B3FrWj9SIkxbmJbtJvYaVypcVVmojkn?usp=drive_link"
+    "drive_url": "https://drive.google.com/file/d/1TDEoQpAVehumbNbXhKGkO8WW5OlM4e49/view?usp=drive_link"
   },
   {
-    "id": 157,
+    "id": 143,
     "name": "Ngữ pháp HSK4",
     "keywords": [
       "nguphaphsk4"
@@ -1456,10 +1570,10 @@
     "type": "Drive",
     "size": "114 KB",
     "category": "Học tiếng trung",
-    "drive_url": "https://drive.google.com/drive/folders/1fckV7DdovKkoCTttKepdZumf1crX92MO?usp=drive_link"
+    "drive_url": "https://drive.google.com/file/d/1UMnZ3fOgAeOWhWA2NPDyzL-ZgSkEbm9o/view?usp=drive_link"
   },
   {
-    "id": 158,
+    "id": 144,
     "name": "Ngữ pháp HSK5",
     "keywords": [
       "nguphaphsk5"
@@ -1467,10 +1581,10 @@
     "type": "Drive",
     "size": "114 KB",
     "category": "Học tiếng trung",
-    "drive_url": "https://drive.google.com/drive/folders/1Iy_InYwTIU7n83IcfiSBtS9v3KNB7tMd?usp=drive_link"
+    "drive_url": "https://drive.google.com/file/d/1DGQwvsmVzLLXjV8687ul81W-n7CjjFfH/view?usp=drive_link"
   },
   {
-    "id": 159,
+    "id": 145,
     "name": "Ngữ pháp HSK6",
     "keywords": [
       "nguphaphsk6"
@@ -1480,19 +1594,8 @@
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1tAkvONNCIwH1ryLrqZxF2dIHUBAElaJZ?usp=drive_link"
   },
-        {
-    "id": 160,
-    "name": "Giáo trình tiếng Hàn tổng hợp",
-    "keywords": [
-      "giaotrinhtienghantonghop"
-    ],
-    "type": "Drive",
-    "size": "114 KB",
-    "category": "Học tiếng Hàn",
-    "drive_url": "https://drive.google.com/drive/folders/1M_m9JpZTDRcsdX_vxw8IXcQq2xO2qysl?fbclid=IwY2xjawSwKeFleHRuA2FlbQIxMABicmlkETFCNTA3YkVOSHc3WkJ1U3Q4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpLQcfSBWxvIKfJyjCbAY42-Iy9o00i-ND7iV0xlQ0pt4HB-0mmba7bgwkg3_aem_6M9OMAslfFkAwAX1cisBBg"
-  },
   {
-    "id": 161,
+    "id": 146,
     "name": "Tiếng Trung giao tiếp 1",
     "keywords": [
       "tiengtrunggiaotiep1"
@@ -1503,7 +1606,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1w6CUHPtDM0FRs6R-apgG5OM4sP-5tH0e?usp=drive_link"
   },
   {
-    "id": 162,
+    "id": 147,
     "name": "Tiếng Trung giao tiếp 2",
     "keywords": [
       "tiengtrunggiaotiep2"
@@ -1514,7 +1617,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1OcDjZjIfu9BtjVwKntNK5_qoPwEuF-EV?usp=drive_link"
   },
   {
-    "id": 163,
+    "id": 148,
     "name": "Tiếng Trung giao tiếp 3",
     "keywords": [
       "tiengtrunggiaotiep3"
@@ -1524,8 +1627,19 @@
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1sEdMm5Ew6slXJhmcOygxZBDJV9GjNiMm?usp=drive_link"
   },
-        {
-    "id": 164,
+  {
+    "id": 149,
+    "name": "Giáo trình tiếng Hàn tổng hợp",
+    "keywords": [
+      "giaotrinhtienghantonghop"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Hàn",
+    "drive_url": "https://drive.google.com/drive/folders/1M_m9JpZTDRcsdX_vxw8IXcQq2xO2qysl?fbclid=IwY2xjawSwKeFleHRuA2FlbQIxMABicmlkETFCNTA3YkVOSHc3WkJ1U3Q4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHpLQcfSBWxvIKfJyjCbAY42-Iy9o00i-ND7iV0xlQ0pt4HB-0mmba7bgwkg3_aem_6M9OMAslfFkAwAX1cisBBg"
+  },
+  {
+    "id": 150,
     "name": "Giáo trình tiếng Hàn Seoul 1-6",
     "keywords": [
       "giaotrinhtienghanseoul"
@@ -1535,30 +1649,30 @@
     "category": "Học tiếng Hàn",
     "drive_url": "https://drive.google.com/drive/folders/1vxytmgDQoHIytI1ohzskD3lZVbt5zySj?fbclid=IwY2xjawSwgZFleHRuA2FlbQIxMABicmlkETFCNTA3YkVOSHc3WkJ1U3Q4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHimaBsSo0-4lJsfxMXcdnyH3fC5jWuxGTpNMBNmcBjQsjD9otq3Aj-OmGZyJ_aem_S_fwZlJmCdnEWdLjszw46Q"
   },
-        {
-    "id": 165,
-    "name": "Trọn bộ 500 từ vựng HSK1",
+  {
+    "id": 151,
+    "name": "Trọn bộ 150 từ vựng HSK1",
     "keywords": [
       "tuvunghsk1"
     ],
     "type": "Drive",
     "size": "114 KB",
     "category": "Học tiếng trung",
-    "drive_url": "https://drive.google.com/drive/folders/1tGMVCi-HQqlPqZAm_ZNb72gcP0uFpfUC?usp=drive_link"
+    "drive_url": "https://drive.google.com/file/d/1mLxfRAnJhMdaVIVKlde02YJqX3hCgi3f/view"
   },
   {
-    "id": 166,
-    "name": "Trọn bộ 600 từ vựng HSK2",
+    "id": 152,
+    "name": "Trọn bộ 300 từ vựng HSK2",
     "keywords": [
       "tuvunghsk2"
     ],
     "type": "Drive",
     "size": "114 KB",
     "category": "Học tiếng trung",
-    "drive_url": "https://drive.google.com/drive/folders/1NHxjMAtBKeFUbF0q4R7iOMvcJGA7Og89?usp=drive_link"
+    "drive_url": "https://drive.google.com/file/d/1WX31fQt5kPhZg3cfrEtfMgWHU0L-34nQ/view"
   },
   {
-    "id": 167,
+    "id": 153,
     "name": "Trọn bộ 600 từ vựng HSK3",
     "keywords": [
       "tuvunghsk3"
@@ -1566,10 +1680,10 @@
     "type": "Drive",
     "size": "114 KB",
     "category": "Học tiếng trung",
-    "drive_url": "https://drive.google.com/drive/folders/1G3wdnTyvQlXM0jNX1pKQjwxt8jH3PT3D?usp=drive_link"
+    "drive_url": "https://drive.google.com/file/d/1L_iBaAAxH3JhGUB_HVGGXvSdurAvlLls/view"
   },
   {
-    "id": 168,
+    "id": 154,
     "name": "Trọn bộ 1200 từ vựng HSK4",
     "keywords": [
       "tuvunghsk4"
@@ -1579,8 +1693,41 @@
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1VXT1g8kpyB54mD8EAcAgpyowiQARfu0w?usp=drive_link"
   },
-        {
-    "id": 169,
+  {
+    "id": 155,
+    "name": "2500 từ vựng HSK5",
+    "keywords": [
+      "tuvunghsk5"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/file/d/1xi49Mx0Wjc3c1Nwq6dxUrGUAvI1PHdJu/view"
+  },
+  {
+    "id": 156,
+    "name": "5000 từ vựng HSK6",
+    "keywords": [
+      "tuvunghsk6"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/file/d/1eIV4yh2sO5xsv672tvIm4qBrbhmsG-Ns/view"
+  },
+  {
+    "id": 157,
+    "name": "5000 từ vựng HSK7-9",
+    "keywords": [
+      "tuvunghsk7-9"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/file/d/11yi9WOV7BAA6B_sMVVCMn0cBALnXs0N4/view"
+  },
+  {
+    "id": 158,
     "name": "File từ vựng HSK 1-9",
     "keywords": [
       "tuvunghsk1-9"
@@ -1591,7 +1738,7 @@
     "drive_url": "https://drive.google.com/file/d/1PnsyxzC0ymGRP2z87YdnjvVNxAk3wQw1/view?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExTlRXWTNkblluQnBERDBrSnNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7K-VzpCwMYPPiHFYWaiyFThnCGiHAp59Fv4GKsJZuwlURcOh-0eLoc7lFC4A_aem_Euxfh6mwvJVjVgmIY2aURg"
   },
   {
-    "id": 170,
+    "id": 159,
     "name": "File ngữ pháp HSK 1-9",
     "keywords": [
       "nguphaphsk1-9"
@@ -1602,7 +1749,7 @@
     "drive_url": "https://drive.google.com/file/d/19mlv7abRRCkVMsy5k-kkhuZFDICu7iKH/view?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExTlRXWTNkblluQnBERDBrSnNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6WX7rpHcJO5_FkqGw-oJ_wiFhG1C_-YNG_buBDPjoy651hRySxneIQyWHasw_aem_Bv7hm8Z9iqu1LekLJ7Kdaw"
   },
   {
-    "id": 171,
+    "id": 160,
     "name": "File đề thi HSK7-9",
     "keywords": [
       "dethihsk7-9"
@@ -1612,8 +1759,8 @@
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/file/d/1cg4NKBAvHrGG7aqYwUwPZp7nm8isP79v/view?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExTlRXWTNkblluQnBERDBrSnNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6LJ-em6J5MDyli4GWW7NzVPamv9LsIe3hhELK4CLkCjBwp0Zi4XGytnbrVxg_aem_0Oyk-x7Y0ZWx7NN__vxQLg"
   },
-        {
-    "id": 172,
+  {
+    "id": 161,
     "name": "Giáo trình 6 cuốn hán ngữ 1-6 kèm file nghe",
     "keywords": [
       "giaotrinh6cuonhanngu"
@@ -1623,8 +1770,8 @@
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/10zXnbNO0_LE117iKKFG2rDg2Sxj-5Me7?usp=drive_link"
   },
-        {
-    "id": 173,
+  {
+    "id": 162,
     "name": "Chủ đề giao tiếp tiếng Trung cho người mới bắt đầu",
     "keywords": [
       "giaotieptiengtrungchonguoimoi"
@@ -1635,7 +1782,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1tCbqYO7ySRJIrQOvA6vVLFVZjOgaCLc4?usp=drive_link"
   },
   {
-    "id": 174,
+    "id": 163,
     "name": "Tiếng Trung văn phòng công xưởng",
     "keywords": [
       "tiengtrungvanphongcongxuong"
@@ -1646,7 +1793,7 @@
     "drive_url": "https://drive.google.com/drive/folders/19m339CYnOIGk_7Jfmv79oTCuLaS5-eBW?usp=drive_link"
   },
   {
-    "id": 175,
+    "id": 164,
     "name": "Khóa học chinh phục HSK cấp 4 trong 30 ngày",
     "keywords": [
       "chinhphuchsk4trong30ngay"
@@ -1657,7 +1804,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1PzFpojLyfzqLgx9__alTTJAQgmLPFsUb?usp=drive_link"
   },
   {
-    "id": 176,
+    "id": 165,
     "name": "900 câu từ ghép HSK",
     "keywords": [
       "900cautughephsk"
@@ -1667,8 +1814,8 @@
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1iWO-FzC-W2mFqKCQN_BIBzNdw-KbUCKm?usp=drive_link"
   },
-{
-    "id": 177,
+  {
+    "id": 166,
     "name": "Đầu tư chứng khoán cho người mới bắt đầu ( Hiếu Tv )",
     "keywords": [
       "dautuchungkhoanchonguoimoibatdau"
@@ -1678,8 +1825,8 @@
     "category": "Kinh doanh",
     "drive_url": "https://drive.google.com/drive/folders/1KNMqHpCODJwdssyuBRUEwe-W6CDyRrpv"
   },
-{
-    "id": 178,
+  {
+    "id": 167,
     "name": "Phỏng vấn xin việc bằng tiếng Trung",
     "keywords": [
       "phongvanxinviecbangtiengtrung"
@@ -1690,7 +1837,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1gywoW0VhlKiKu09FKp5OqQNC6nUGN-Xs?usp=drive_link"
   },
   {
-    "id": 179,
+    "id": 168,
     "name": "Bí quyết nhớ hán ngữ vô cùng dễ",
     "keywords": [
       "biquyetnhohanngu"
@@ -1701,7 +1848,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1H9lnWCh5Pj_94WVDpAeAr0Kd44XprQMD?usp=drive_link"
   },
   {
-    "id": 180,
+    "id": 169,
     "name": "Kỹ năng phát triển và lãnh đạo bản thân",
     "keywords": [
       "kynangphattrienvalanhdaobanthan"
@@ -1712,7 +1859,7 @@
     "drive_url": "https://drive.google.com/drive/folders/11sG04ocog8IrsprpPnJQc3DRCbhZFsJZ"
   },
   {
-    "id": 181,
+    "id": 170,
     "name": "IELTS A2-B1",
     "keywords": [
       "ieltsa2b1"
@@ -1723,7 +1870,7 @@
     "drive_url": "https://drive.google.com/drive/folders/15pnRGwjCt7kjOcMUAmvRhDh0jUoZnNUU"
   },
   {
-    "id": 182,
+    "id": 171,
     "name": "IELTS B1-B2",
     "keywords": [
       "ieltsb1b2"
@@ -1734,7 +1881,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1kevdwoxy_n1Gl4ZMT5ZJrotdO2_BC12-"
   },
   {
-    "id": 183,
+    "id": 172,
     "name": "IELTS B2-C1",
     "keywords": [
       "ieltsb2c1"
@@ -1744,8 +1891,8 @@
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/14eW-y8k9CMx6SWo2J5Gmkwa2olI32EjV"
   },
-   {
-    "id": 184,
+  {
+    "id": 173,
     "name": "Hướng dẫn toàn diện giới từ",
     "keywords": [
       "huongdantoandiengioitu"
@@ -1756,18 +1903,18 @@
     "drive_url": "https://drive.google.com/file/d/18VhtQyKgfz4QG974IkcZM0zK3s7TjCII/view"
   },
   {
-    "id": 185,
+    "id": 174,
     "name": "Tài liệu MOS 2019",
     "keywords": [
       "tailieumos2019"
     ],
     "type": "Drive",
     "size": "114 KB",
-    "category": "Học tiếng anh",
+    "category": "Khác",
     "drive_url": "https://drive.google.com/drive/folders/1oAhQ3kD9ELKRk0XoUfZb5fx6o7XE4Rjv?fbclid=IwY2xjawS4jelleHRuA2FlbQIxMABicmlkETE4NkZ4QWhVVjFpQ1BmVE1yc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHh5FhQm8B1eUR1oyHDjWQlLhkSl3KBv-7gY60eUNz8Ie9d-jrL4U6rUHbYFh_aem_nLwzDZSnePpl5KGjKYJyuw"
   },
-   {
-    "id": 186,
+  {
+    "id": 175,
     "name": "Khóa học Illustrator",
     "keywords": [
       "KhoahocIllustrator"
@@ -1778,7 +1925,7 @@
     "drive_url": "https://drive.google.com/drive/folders/19lGhah_vTmbZHLaYO16GCFF82l7JyyTX"
   },
   {
-    "id": 187,
+    "id": 176,
     "name": "Khóa học AutoCAD",
     "keywords": [
       "khoahocautocad"
@@ -1789,7 +1936,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1G8VnpVN2ZGCrlLJButdGk3-CbUs2THaY"
   },
   {
-    "id": 188,
+    "id": 177,
     "name": "Khóa học Capcut",
     "keywords": [
       "Khoahoccapcut"
@@ -1800,7 +1947,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1Cpu-JuzUt4G3wdlPLbX8eKDIMa533VEd"
   },
   {
-    "id": 189,
+    "id": 178,
     "name": "Khóa học Canva A-Z",
     "keywords": [
       "khoahoccanva"
@@ -1810,8 +1957,8 @@
     "category": "Edit video",
     "drive_url": "https://drive.google.com/drive/folders/1_lsPcjuvjQwGqwo1IVxNEYM6_H0rQD6K"
   },
-   {
-    "id": 190,
+  {
+    "id": 179,
     "name": "Khóa học TOEIC cô Mai Phương",
     "keywords": [
       "toeiccomaiphuong"
@@ -1820,20 +1967,20 @@
     "size": "114 KB",
     "category": "Học tiếng anh",
     "drive_url": "https://drive.google.com/drive/folders/1NeFAnztQ18iajT-1LQIxo-X1wx6ggloP"
-  }, 
+  },
   {
-    "id": 191,
+    "id": 180,
     "name": "Kho tài liệu tiếng Nhật Khủng",
     "keywords": [
       "khotailieutiengnhat"
     ],
     "type": "Drive",
     "size": "114 KB",
-    "category": "Học tiếng nhật",
+    "category": "Học tiếng Nhật",
     "drive_url": "https://drive.google.com/drive/u/0/folders/1jzXNZtmWH606X3mi4SbxJ-RjM-Lz0vQm?fbclid=IwY2xjawS6qsZleHRuA2FlbQIxMABicmlkETFCaWdINU1Sbjk5Z09HUXF2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtbgfaX0Io1lFGxJOmiSJifqsAC-LVE_1Dksicwciw8YvU1b7296rp0HqVvg_aem_ifUttEIvdYvitSj2opHA-w"
   },
-   {
-    "id": 192,
+  {
+    "id": 181,
     "name": "Plan du lịch Hà Giang",
     "keywords": [
       "plandulichhagiang"
@@ -1841,10 +1988,10 @@
     "type": "Drive",
     "size": "114 KB",
     "category": "Plan du lịch",
-    "drive_url": "https://docs.google.com/spreadsheets/d/10pusli8Z2S_eQYhpvX_RdYZU3FNGg5gi4faovQSE0_Q/edit?usp=sharing"     
-   }, 
+    "drive_url": "https://docs.google.com/spreadsheets/d/10pusli8Z2S_eQYhpvX_RdYZU3FNGg5gi4faovQSE0_Q/edit?usp=sharing"
+  },
   {
-    "id": 193,
+    "id": 182,
     "name": "Ready for B2C1C2",
     "keywords": [
       "readyforb2c1c2"
@@ -1855,7 +2002,7 @@
     "drive_url": "https://drive.google.com/drive/u/0/folders/1luo_dOUTuZkEWArJ47My73bJcXZG70Qi?fbclid"
   },
   {
-    "id": 194,
+    "id": 183,
     "name": "Tiếng anh 7.5",
     "keywords": [
       "tienganh7.5"
@@ -1866,7 +2013,7 @@
     "drive_url": "https://drive.google.com/drive/folders/1EYLio1wxX5OKeM8kPU7jdeM31mf_zk6V?hl=vi&fbclid=IwY2xjawR20-tleHRuA2FlbQIxMABicmlkETFacWhxV0xGY0ZDRTNIOVdVc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHroL6IhzHdw9YP2lFz_t-fUYrfL8jpI1MfWI7RrgP-M57hD4ct7YJldDD4Kf_aem_nqB75yYNR6PTAjV7pq79xg"
   },
   {
-    "id": 195,
+    "id": 184,
     "name": "TẤT TẦN TẬT FILE 100GB TÀI LIỆU TOEIC-GIAO TIẾP CHUYÊN SÂU",
     "keywords": [
       "100gbtailieutoeic"
@@ -1876,8 +2023,8 @@
     "category": "Học tiếng anh",
     "drive_url": "https://docs.google.com/spreadsheets/d/1J7DhKjgQqLCKnXSGffXCLKqxcXgTCkotSqaHyUa0XF8/edit?gid=0#gid=0"
   },
-    {
-    "id": 196,
+  {
+    "id": 185,
     "name": "Plan du lịch Phú Quốc",
     "keywords": [
       "plandulichphuquoc"
@@ -1888,7 +2035,7 @@
     "drive_url": "https://docs.google.com/spreadsheets/d/16Fn3xUbjg-7NG2Sw2jnAlo8WHnTTr_HP8o8KS6mxwjE/edit?gid=0#gid=0"
   },
   {
-    "id": 197,
+    "id": 186,
     "name": "Plan du lịch Sapa",
     "keywords": [
       "plandulichsapa"
@@ -1899,7 +2046,7 @@
     "drive_url": "https://docs.google.com/spreadsheets/d/1XB0p3USZDhISMzVdVlo4NDoeLYdA2_D2jcsWgHlQiGY/edit?gid=0#gid=0"
   },
   {
-    "id": 198,
+    "id": 187,
     "name": "Plan du lịch Nha Trang",
     "keywords": [
       "plandulichnhatrang"
@@ -1910,7 +2057,7 @@
     "drive_url": "https://docs.google.com/spreadsheets/d/1WwgCQ_UoYzzu7uktw_LfxEtNNwe5n5XrpYQ7cLW2t_0/edit?gid=196469300#gid=196469300"
   },
   {
-    "id": 199,
+    "id": 188,
     "name": "Plan du lịch Huế - Hội An - Đà Nẵng",
     "keywords": [
       "plandulichhuehoiandanang"
@@ -1921,7 +2068,7 @@
     "drive_url": "https://docs.google.com/spreadsheets/d/1qlmHNQfhfmAPnpnBi3CG6TqyuXvOPBZavtgM911sMxg/edit?gid=585449833#gid=585449833"
   },
   {
-    "id": 200,
+    "id": 189,
     "name": "HUẾ ĂN CHI - ĐI MÔ CHỪ ? (by TÝ)",
     "keywords": [
       "hueanchi"
@@ -1932,7 +2079,7 @@
     "drive_url": "https://docs.google.com/spreadsheets/d/1ZR_3WfUYhg5v6RWVizEr5lKXJ44G-mZJm-W-fI6SECw/edit?gid=0#gid=0"
   },
   {
-    "id": 201,
+    "id": 190,
     "name": "Giáo trình chuẩn HSK1-6",
     "keywords": [
       "giaotrinhhsk1-6"
@@ -1941,14 +2088,1028 @@
     "size": "114 KB",
     "category": "Học tiếng trung",
     "drive_url": "https://drive.google.com/drive/folders/1A0ZUS1CkSNIP5ncsxa9Z7RJJgUdIIHIW"
-  },    
+  },
   {
-    "id": 6,
-    "name": "Khóa học IELTS Ngọc Bách",
-    "keywords": ["khoahocngocbach"],
-    "type": "Word",
-    "size": "65 KB",
+    "id": 191,
+    "name": "Sách tiếng Trung HSK 3",
+    "keywords": [
+      "sachtiengtrunghsk3"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/1bPnKgmyRhH69f5Oeo7ZJ9-jxdvTQUsxo?hl=vi"
+  },
+  {
+    "id": 192,
+    "name": "Sách tài liệu nhân sự HR",
+    "keywords": [
+      "sachtailieunhansu"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Khác",
+    "drive_url": "https://drive.google.com/drive/folders/186ElTyV_UXa5V_Xjl_ECdpoS0OS1xDxl"
+  },
+  {
+    "id": 193,
+    "name": "TẢI LIỆU CHO BỘ PHẬN NHÂN SỰ, KẾ TOÁN, NVVP",
+    "keywords": [
+      "tailieubophannhansuketoan"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Khác",
+    "drive_url": "https://drive.google.com/file/d/1f7Uuraem5zksCPWFLPZmf02EA3CwUJve/view"
+  },
+  {
+    "id": 194,
+    "name": "Xóa mù tiếng anh cấp tốc Cô Mai Phương",
+    "keywords": [
+      "xoamutienganhcaptoc"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
     "category": "Học tiếng anh",
-    "drive_url": "http://drive.google.com/drive/folders/1UJQ4MpZBoA_G_M7aCOP-IqS1z0ZNKn4F"
+    "drive_url": "https://docs.google.com/spreadsheets/d/1ol16M6gEUXwsBzRzePcQhFW5_mNMwvU4xOHBuotvBFA/edit?gid=0#gid=0"
+  },
+  {
+    "id": 195,
+    "name": "Kỹ năng Paraphrase",
+    "keywords": [
+      "kynangParaphrase"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/file/d/1LZJGZ8LHmmp1mU47CffPpKq0eu-xD8UJ/view"
+  },
+  {
+    "id": 196,
+    "name": "Tiếng anh chuyên ngành Marketing",
+    "keywords": [
+      "tienganhchuyennganhmkt"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/file/d/0B113z1JTweviTGcxN2tXVHB1eTQ/view?resourcekey=0-zjuTu8Z4xV7tfGz6jGhGzQ"
+  },
+  {
+    "id": 197,
+    "name": "Kho tài liệu N5",
+    "keywords": [
+      "khotailieun5"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nhật",
+    "drive_url": "https://drive.google.com/drive/folders/14cvGKUh4Gu7ojd2JE6FzWL5hCTSFwhaz?fbclid=IwY2xjawS6qqZleHRuA2FlbQIxMABicmlkETFCaWdINU1Sbjk5Z09HUXF2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvIaGX8528XSXa3wiRz_4zd7S_TsfuboKWwJPnXxK7jryWIUKLaIcMNwnUvd_aem_kw4TRCVT9J4kflLIGhAzIA"
+  },
+  {
+    "id": 198,
+    "name": "Cambridge Movers 1-8",
+    "keywords": [
+      "CambridgeMovers"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1iVx07dRQeERNr9Js-J_e1_rBRM86JOz4"
+  },
+  {
+    "id": 199,
+    "name": "Reading cấp tốc Band 6-7-8-9",
+    "keywords": [
+      "readingcaptocband6789"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1UDQZbi6ioCgya-cs4IqGyO45M7mDfaIS"
+  },
+  {
+    "id": 200,
+    "name": "IELTS cho người mới bắt đầu",
+    "keywords": [
+      "ieltschonguoimoibatdau"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1ToY9G9DQYJWEHV198-yiTB84B6xov2nS"
+  },
+  {
+    "id": 201,
+    "name": "Tài liệu tiếng Nga",
+    "keywords": [
+      "tailieutiengnga"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nga",
+    "drive_url": "https://drive.google.com/drive/u/0/folders/1FnmimAT3RvhQ7mpGYk3pxhZE6wuZ36ys?fbclid=IwY2xjawTAJzBleHRuA2FlbQIxMABicmlkETFKUnlSbG82TlhmMFIzU09jc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHly93hGOQfjo8ly92vnwsPzWhcIOcZKXpbO0AG-s1Y5TDLA09cE93IGscZ29_aem_keBrHm7WJTKIfukFgi3Rnw"
+  },
+  {
+    "id": 202,
+    "name": "Ngôn ngữ Phần Lan",
+    "keywords": [
+      "ngonnguphanlan"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Khác",
+    "drive_url": "https://drive.google.com/drive/folders/1W3UnU-lSx0Zl519nYoutu756h1D2g2Kt"
+  },
+  {
+    "id": 203,
+    "name": "Kho tài liệu IELTS band 0-7.0+ IELTS Thanh Loan (100% miễn phí, update thường xuyên)",
+    "keywords": [
+      "khotailieuieltsthanhloan"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1qaKv1LaL32DhWcAyQtKHC5RDGUftmKrfw1XbX0NYns0/edit?gid=674702523#gid=674702523"
+  },
+  {
+    "id": 204,
+    "name": "Tiếng Nhật cho người mới bắt đầu",
+    "keywords": [
+      "tailieutiengnhatchonguoimoi"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nhật",
+    "drive_url": "https://drive.google.com/drive/folders/19yeA5LmqhzCFA17a96sNb8mg0k_xmuTD"
+  },
+  {
+    "id": 205,
+    "name": "Video tự học tiếng Trung",
+    "keywords": [
+      "videotuhoctiengtrung"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng trung",
+    "drive_url": "https://drive.google.com/drive/folders/14_qgmgytl_IB6msE3tLm34gaX7mlYJDL"
+  },
+  {
+    "id": 206,
+    "name": "50 bài tập ngữ pháp Tiếng Anh P1 Full đáp án",
+    "keywords": [
+      "50baitapnguphapTAP1"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1ZyMprb-UIdkbqAMYPc8h7f38YGPImKgX"
+  },
+  {
+    "id": 207,
+    "name": "Tiếng Nhật N1",
+    "keywords": [
+      "tiengnhatn1"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nhật",
+    "drive_url": "https://drive.google.com/drive/folders/1bz3nYLMK2bnMcIiOcApIh1VEuzxKtozg"
+  },
+  {
+    "id": 208,
+    "name": "Tiếng Nhật N2",
+    "keywords": [
+      "tiengnhatn2"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nhật",
+    "drive_url": "https://drive.google.com/drive/folders/1UaZFvNkHo5Rdndyclu8T7FQh4Qn7I062"
+  },
+  {
+    "id": 209,
+    "name": "Tiếng Nhật N3",
+    "keywords": [
+      "tiengnhatn3"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nhật",
+    "drive_url": "https://drive.google.com/drive/folders/1xpqVs-1UhrBGmLmIXuxWOm6BiZ5_AVd4"
+  },
+  {
+    "id": 210,
+    "name": "Tiếng Nhật N4",
+    "keywords": [
+      "tiengnhatn4"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nhật",
+    "drive_url": "https://drive.google.com/drive/folders/1zD_dBoFx-0drpb8ysROuesfSFeLwLxNZ"
+  },
+  {
+    "id": 211,
+    "name": "Tiếng Nhật N5",
+    "keywords": [
+      "tiengnhatn5"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nhật",
+    "drive_url": "https://drive.google.com/drive/folders/1WjRALCLIuTtXKvi7Y0vEzElR7it5mWBl"
+  },
+  {
+    "id": 212,
+    "name": "Khóa học MOS",
+    "keywords": [
+      "khoahocmos"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Khác",
+    "drive_url": "https://drive.google.com/drive/folders/1Tbb_VR6T2Tku9ti57SYwFx0qnPQLurAR"
+  },
+  {
+    "id": 213,
+    "name": "Curriculum CFA Level 1 (full 10 môn)",
+    "keywords": [
+      "Curriculumlv1"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Kinh doanh",
+    "drive_url": "https://drive.google.com/drive/folders/1YPkOpi1pZHolK9wGmSmyY2RqeOqc1aGt"
+  },
+  {
+    "id": 214,
+    "name": "Tiếng Hàn giao tiếp cơ bản",
+    "keywords": [
+      "tienghangiaotiepcoban"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Hàn",
+    "drive_url": "https://drive.google.com/file/d/1ZqMkSUl7AeQWZUjqYd_Zp-o3c79gKPqF/view"
+  },
+  {
+    "id": 215,
+    "name": "Tổng hợp tài liệu tiếng Pháp",
+    "keywords": [
+      "tonghoptailieutiengphap"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Pháp",
+    "drive_url": "https://drive.google.com/drive/folders/1lGpinJfmf0_Us2zD4UM5XpFWflQDotrP"
+  },
+  {
+    "id": 216,
+    "name": "IELTS WRITING PHẠM XUÂN PHI",
+    "keywords": [
+      "IELTSPHAMXUANPHI"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://docs.google.com/spreadsheets/d/15HcaSSEJqhgqXm8Mc9NmS-SP9QXYtmySxrzBG5gNM1s/edit?gid=0#gid=0"
+  },
+  {
+    "id": 217,
+    "name": "TOEIC PREP",
+    "keywords": [
+      "TOEICPREP"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/12UKZL6-Q-yWyrJ1W2l4QsrqQm92UWpL-"
+  },
+  {
+    "id": 218,
+    "name": "48 ngày lấy gốc tiếng Anh toàn diện",
+    "keywords": [
+      "48NGAYLAYGOCTOANDIENTA"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1JEjzIyJcy68-xjE2iU54TqXEg46OiKSx"
+  },
+  {
+    "id": 219,
+    "name": "Ngữ pháp tiếng Anh trọn đời",
+    "keywords": [
+      "NGUPHAPTATRONDOI"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1POsG6MGeD78XJPDsqC2qCLVS-p1dVx2A"
+  },
+  {
+    "id": 220,
+    "name": "Tiếng Anh giao tiếp cho người mất gốc",
+    "keywords": [
+      "TAGIAOTIEP"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1oVFGiM0PuoTrfa13_KYvAw3rYxyFWmk9"
+  },
+  {
+    "id": 221,
+    "name": "Nói tiếng Anh thành thạo trong 3 tháng",
+    "keywords": [
+      "TTTATRONG3THANG"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1fHYsjR7VfmDLHaWO_YI-9pvx7FAd4lAU"
+  },
+  {
+    "id": 222,
+    "name": "Khóa học 24 ngày lấy lại tiếng Anh căn bản",
+    "keywords": [
+      "KH24NGAYLAYLAITIENGANHCB"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/15IRw6IJWVwuitrheckzVO4Xzcs0Vxiaz"
+  },
+  {
+    "id": 223,
+    "name": "Chinh phục chứng chỉ MOS",
+    "keywords": [
+      "CHINHPHUCMOS"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Khác",
+    "drive_url": "https://drive.google.com/drive/folders/1YmVbwZivRAj2bWAldgzMVyeslqNeHcNJ?fbclid=IwZXh0bgNhZW0CMTAAAR2j8b5e2J1VS7fv1K5iSlyXBUcjzxFOsCr_cpqicerZjEasDOYXd_Rx8PE_aem_AWClcJJOB-eTh4fjlw2FGfRZa_zTE58j4JsmpvHc-UKEVI5VfOmm4BZuGoWsf5jAJNotDp90D1pnr0DmS83YFTKq"
+  },
+  {
+    "id": 224,
+    "name": "Cẩm nang tin học",
+    "keywords": [
+      "CAMNANGTINHOC"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Khác",
+    "drive_url": "https://drive.google.com/drive/folders/1gEN5blPylhl2aPyNiUA_T6MUKaITPASs?fbclid=IwZXh0bgNhZW0CMTAAAR04VKDQV_a4gjaj2qPj7bM1W5iZprRCdgve3QLcKe1LLEP0VoqlVkqRP_w_aem_3J6jy-Jv5zRe3Mlom0MR6g"
+  },
+  {
+    "id": 225,
+    "name": "28 bài giảng của Gà Excel",
+    "keywords": [
+      "28BAIGIANGGAEXCEL"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Khác",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1TcKgy4fNTFZKiKnSP3n5UhLxQ8WS5E3CB7OsSXvIq5U/edit?gid=0#gid=0"
+  },
+  {
+    "id": 226,
+    "name": "Học sử dụng Excel từ A-Z",
+    "keywords": [
+      "HOCEXCELAZ"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Khác",
+    "drive_url": "https://drive.google.com/drive/folders/1cWq4zgEZvpkgF0wx7iY8lcUc0YaqkEwW"
+  },
+  {
+    "id": 227,
+    "name": "Thành thạo CANVA cấp tốc",
+    "keywords": [
+      "thanhthaocanvacaptoc"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Edit video",
+    "drive_url": "https://drive.google.com/drive/folders/1lYoRM4ZqevUq5xLvjhc5SqR4cqK29IRc?fbclid=IwZXh0bgNhZW0CMTAAAR30FARj4cNDlLGSsRtXDL2CR3R-PcilCp4GwGjekA5g0FfKoB8f1_VMubc_aem_AWBco5JKXnAhp03phoYpuhgdUKI6oqq_cFaKGly0mC8S6Mfsa4BPtRsvNRehdGIiFaUjquD8_EIt1hoL7Tg8yhgG"
+  },
+  {
+    "id": 228,
+    "name": "Thiết kế và video cho người ko chuyên trên CANVA",
+    "keywords": [
+      "thietkevideocanva"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Edit video",
+    "drive_url": "https://drive.google.com/drive/folders/1amwZFEO4Ic-pszQjVlnzt4hz93Z54Lqo?fbclid=IwZXh0bgNhZW0CMTAAAR2hLP6jm5L8QIBz12GkcaldyBUu_krXFzV1MbNaw7IxpUQV-1eFSdStJoU_aem_AWBLS-lZ3YKaHbvF76M_TAvACSroWzjgZDjWLmhOLkqG7Cz9lEaUBrd1MUqUIGGFRtuvZ-eOgUcOoU6L-Qvfb7UU"
+  },
+  {
+    "id": 229,
+    "name": "Học photoshop thần tốc cùng Quạ HD",
+    "keywords": [
+      "ptsquahd"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Edit video",
+    "drive_url": "https://drive.google.com/drive/folders/1AWL7Dwqsqwu1S2jEfTwtJuCAGJ4QTsrj?fbclid=IwZXh0bgNhZW0CMTAAAR2p-Pj4GvBX4XpKFjBp9UNDVwGn-oKTyTFn7q4g61II3vVHbyJJdMhO6Ns_aem_ZmFrZWR1bW15MTZieXRlcw"
+  },
+  {
+    "id": 230,
+    "name": "Trọn bộ AutoCAD từ cơ bản - nâng cao",
+    "keywords": [
+      "autocadcobandennangcao"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Edit video",
+    "drive_url": "https://drive.google.com/drive/folders/1DO0YIa_szlo-i0URUwr8Zibygsvak5ub"
+  },
+  {
+    "id": 231,
+    "name": "Tài liệu tiếng Nhật học cả đời",
+    "keywords": [
+      "hoctiengnhatcadoi"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nhật",
+    "drive_url": "https://drive.google.com/file/d/1cSK4jCGzUrVBxoiiOeHFryTA3AXEClB1/view"
+  },
+  {
+    "id": 232,
+    "name": "Sổ tay từ vựng N3",
+    "keywords": [
+      "tuvungn3"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng Nhật",
+    "drive_url": "https://drive.google.com/file/d/1kn7xyk4SC1KEHW5awYKmqKThiVYOE-w9/view"
+  },
+  {
+    "id": 233,
+    "name": "Lộ trình ôn thi TOEIC 0-900",
+    "keywords": [
+      "lotrinhonthitoeic"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/file/d/0BxIhA62dUzyxc0ZxMk1aSzloZXc/view?resourcekey=0-jfXpYUasSNtTEuOboPHeoQ"
+  },
+  {
+    "id": 234,
+    "name": "Tài liệu NCKH Trí tuệ nhân tạo (Artificial Intelligence) tổng hợp (open source)",
+    "keywords": [
+      "trituenhantao"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "AI",
+    "drive_url": "https://drive.google.com/drive/folders/1iziuJJ8XrtVuDQUAw7C0oWYLonXgxoRI"
+  },
+  {
+    "id": 235,
+    "name": "Trọn bộ tài liệu Business Analyst đầy đủ",
+    "keywords": [
+      "tronbotailieuBA"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Khác",
+    "drive_url": "https://drive.google.com/drive/folders/1if09a9QyNfBRlAKey7If5preZ3BswudZ?fbclid=IwY2xjawK8Z0lleHRuA2FlbQIxMQABHrjGHsPWgMiIkruHmkK8LtGNArwmZNn_FcK8yiRoEkHvfSxp6wt4Wo_R8d_I_aem_ccz8aE5Ghr4cJp47ILrsaw"
+  },
+  {
+    "id": 236,
+    "name": "Quản lý ngân sách marketing",
+    "keywords": [
+      "quanlyngansachmkt"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Template marketing",
+    "drive_url": "https://yspacevn.sg.larksuite.com/wiki/AKIawxJNdilSeIkTP2JlX2GqgKg?table=blkMpSXlNzaTi9xp"
+  },
+  {
+    "id": 237,
+    "name": "Quản lý bài đăng social",
+    "keywords": [
+      "quanlybaidangsocial"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Template marketing",
+    "drive_url": "https://yspacevn.sg.larksuite.com/wiki/Vt0gw0JWfipij2kYw2dlJcYXgKc?table=blk8EcneyXHd7gJZ"
+  },
+  {
+    "id": 238,
+    "name": "Theo dõi hiệu quả quảng cáo",
+    "keywords": [
+      "theodoihieuquaquangcao"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Template marketing",
+    "drive_url": "https://yspacevn.sg.larksuite.com/wiki/XYeVwLLNKiC0ebkLajUl97z1gCf?table=blkM3QPwESWqw9lg"
+  },
+  {
+    "id": 239,
+    "name": "Quản lý doanh thu từ nguồn MKT",
+    "keywords": [
+      "quanlydoanhthutumkt"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Template marketing",
+    "drive_url": "https://yspacevn.sg.larksuite.com/wiki/FLLwwGphkiJQ2SkCNSMlT6i3gPo?table=blkrXijd6FUhUOM8"
+  },
+  {
+    "id": 240,
+    "name": "Quản lý chăm sóc khách hàng",
+    "keywords": [
+      "quanlycskh"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Kinh doanh",
+    "drive_url": "https://yspacevn.sg.larksuite.com/wiki/RZXewzHvJiPQIikSef2lmhAhgfg?table=blkLkF1xyxOcPFBS"
+  },
+  {
+    "id": 241,
+    "name": "Báo cáo kinh doanh (ngành FMGC)",
+    "keywords": [
+      "bckdfmgc"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Kinh doanh",
+    "drive_url": "https://www.canva.com/design/DAG4w-u9y5k/L6iRjK0UueR7kO-Mw9I0ZA/edit?utm_content=DAG4w-u9y5k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+  },
+  {
+    "id": 242,
+    "name": "Báo cáo HD Kinh doanh tổng hợp",
+    "keywords": [
+      "bchdkdth"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Kinh doanh",
+    "drive_url": "https://docs.google.com/spreadsheets/d/10RhKOVW2Y18zHtW0rtzJuobtVQ5Z2h6jIvVdWeQF394/edit?fbclid=IwY2xjawOKQNxleHRuA2FlbQIxMABicmlkETFsRUdUVTZBa1VhaVBrbkxjc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoKWNgQm94lp-4_4HbQMc2yoiQz1Ngie03zw2TQF8NaJ-nXZRUO3FsMTk5JZ_aem_X1GqfpzuuCJNJZ-KmwqSnw&gid=0#gid=0"
+  },
+  {
+    "id": 243,
+    "name": "Theo dõi đánh giá tiến độ chốt sale",
+    "keywords": [
+      "theodoidanhgiatiendochotsale"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Kinh doanh",
+    "drive_url": "https://yspacevn.sg.larksuite.com/wiki/ELnbw90vFinxg8kawrsljK34gJg?table=blkN1l2qTD7Ziwy4"
+  },
+  {
+    "id": 244,
+    "name": "Khoá AM Coaching (20 Phần)",
+    "keywords": [
+      "amcoaching"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Affiliate",
+    "drive_url": "https://drive.google.com/drive/folders/1KhuV3XVELjDZnUci4A0S4xEjtzHIsr8Q"
+  },
+  {
+    "id": 245,
+    "name": "Khoá FREE TRAFFIC cho người bán hàng - NGHÍA LÊ Fouder của KTLN (4 Bài)",
+    "keywords": [
+      "khoahocfreetraffic"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Affiliate",
+    "drive_url": "https://drive.google.com/drive/folders/1-Vhg6E1A28DJ-Lqbbm0imkSqFGcerbzz"
+  },
+  {
+    "id": 246,
+    "name": "Khoá học AFFILIATE CLICKBANK (3 Phần)",
+    "keywords": [
+      "affclickbank"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Affiliate",
+    "drive_url": "https://drive.google.com/drive/folders/1_C5GTVIoEugjyDPHr5uCh64QdtnFxFuO"
+  },
+  {
+    "id": 247,
+    "name": "Kiếm Tiền Với Google Adsense",
+    "keywords": [
+      "kiemtienggadsense"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Affiliate",
+    "drive_url": "https://drive.google.com/drive/folders/1d5JTlP9WyXPdYKiof0F5jGhvsFIeJurL"
+  },
+  {
+    "id": 248,
+    "name": "Khóa IM Coaching V1_V2_3 (2 Phần)",
+    "keywords": [
+      "imcoaching"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "AI",
+    "drive_url": "https://drive.google.com/drive/folders/196rh0sqgFK8QcSPmywqKrUOgoioofDMy"
+  },
+  {
+    "id": 249,
+    "name": "Khóa Học Kiếm Tiền Với Amazon (4 Phần)",
+    "keywords": [
+      "kiemtienamazon"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "AI",
+    "drive_url": "https://drive.google.com/drive/folders/1nA7zp6ZpRals3JpkT81I8VTl9S-uRR47"
+  },
+  {
+    "id": 250,
+    "name": "ChatGPT – Khóa học hoàn chỉnh dành cho người mớI về cách sử dụng ChatGPT (Chet Guardino) (2 Phần)",
+    "keywords": [
+      "khoahocchatgpthoanchinhchongmoi"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "AI",
+    "drive_url": "https://drive.google.com/drive/folders/1uBq8oiEVruF_D--0XFAcr-OLecW1nqyv"
+  },
+  {
+    "id": 251,
+    "name": "ChatGPT cho công việc 2023 (Về mặt đạo đức) (Steve Ballinger, MBA) (4 Phần)",
+    "keywords": [
+      "chatgptchocongviec"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "AI",
+    "drive_url": "https://drive.google.com/drive/folders/13PXshC6jIfCfrlSDjWa2VOKSpS6wa_tB"
+  },
+  {
+    "id": 252,
+    "name": "Kiếm tiền với ChatGPT dành cho Youtuber (Umair Dildar) (4 Bài)",
+    "keywords": [
+      "kiemtienvoichatgpt"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "AI",
+    "drive_url": "https://drive.google.com/drive/folders/17huRgylYUjjOEoKik-qqGU1LE_dbyygp"
+  },
+  {
+    "id": 253,
+    "name": "ChatGPT Hướng dẫn tuyệt đối về Trợ lý AI BẤT KỲ Ngành nào (2023) (Alexander Hannerman) (9 Phần)",
+    "keywords": [
+      "huongdanchatgpt"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "AI",
+    "drive_url": "https://drive.google.com/drive/folders/1ouvCANnhx12ZLM-JjogJxPF7mmnZhVvv"
+  },
+  {
+    "id": 254,
+    "name": "ChatGPT Masterclass Hướng dẫn ChatGPT hoàn chỉnh cho người mới bắt đầu! (Lance Junck) (6 Phần)",
+    "keywords": [
+      "masterclasschatgpt"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "AI",
+    "drive_url": "https://drive.google.com/drive/folders/14m090HZbIx22FLBXLzwAyRcJYiu6CNU8"
+  },
+  {
+    "id": 255,
+    "name": "TÀI LIỆU MIDJOURNEY",
+    "keywords": [
+      "tailieumidjourney"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "AI",
+    "drive_url": "https://drive.google.com/file/d/1P90Y3hELkiK7quavHMGf-PtFw6nNIYf4/view"
+  },
+  {
+    "id": 256,
+    "name": "Tuyệt chiêu áp dụng ChatGPT để tạo khóa học trong vòng 48 giờ (14 Bài)",
+    "keywords": [
+      "apdungchatgptdetaokhoahoc"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "AI",
+    "drive_url": "https://drive.google.com/drive/folders/1LMrJxoVfUAUDaqCw_kGak-CIeIhWvCLP"
+  },
+  {
+    "id": 257,
+    "name": "Trở thành Pháp sư ChatGPT sau một buổi chiều (53 Bài)",
+    "keywords": [
+      "trothanhphapsuchatgptsau1buoi"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "AI",
+    "drive_url": "https://drive.google.com/drive/folders/1z9cV_B6UtAl-9Qd_q4yip0WWZuUHSe7Z"
+  },
+  {
+    "id": 258,
+    "name": "Tạo tiện ích bot ChatGPT của riêng bạn trên Chrome [2023] (Herman Galioulline) (4 Phần)",
+    "keywords": [
+      "taotienichbotchatgpt"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "AI",
+    "drive_url": "https://drive.google.com/drive/folders/1pIbmDK34Ai5ALkSvUyOLrT4bRQBveLIP"
+  },
+  {
+    "id": 259,
+    "name": "Làm chủ Chat GPT từ cơ bản đến nâng cao (18 Phần)",
+    "keywords": [
+      "lamchuchatgpt"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "AI",
+    "drive_url": "https://drive.google.com/drive/folders/1zlhGLGjw6q4zXB7l8rw8mqqKPtflnCq-"
+  },
+  {
+    "id": 260,
+    "name": "Tặng tài liệu 535 TRANG TOÁN THỰC TẾ 12 FULL ĐÁP ÁN",
+    "keywords": [
+      "535trangtoanthucte"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Toán học",
+    "drive_url": "https://drive.google.com/drive/folders/1qY7Ew8HaQlkwH6S4ew6hieQr0q-6l1Ed"
+  },
+  {
+    "id": 261,
+    "name": "20 Chủ đề từ vựng trọng điểm",
+    "keywords": [
+      "20chudetuvungtrongdiem"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1Jr5dEZ2D4lIlRsQYnCGNjrRuWFAOpBqY"
+  },
+  {
+    "id": 262,
+    "name": "Khóa nền tảng IELTS 0-3.0",
+    "keywords": [
+      "khoanentangielts0-3"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1C_GlXP-fj02wtxXSXBoUvvc4KmBZHzSX"
+  },
+  {
+    "id": 263,
+    "name": "Bứt phá IELTS 3.0-4.5",
+    "keywords": [
+      "butphaielts3-4"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1meKJpDPlNkeOpT6GhPDTvpNh3Rm_bdze"
+  },
+  {
+    "id": 264,
+    "name": "Chinh phục IELTS 4.5-5.5",
+    "keywords": [
+      "chinhphucielts4-5"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1LoTNdxEhK41MOG0zsmuZGLoVqJyYLlTg"
+  },
+  {
+    "id": 265,
+    "name": "50 bài tập ngữ pháp Tiếng Anh P2 Full đáp án",
+    "keywords": [
+      "50baitapnguphapTAP2"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/17xAk5KWn5Bbvo0D_-HWVjACzZ_QibGBe"
+  },
+  {
+    "id": 266,
+    "name": "Full bộ từ vựng ôn thi TOEIC từ 0-990",
+    "keywords": [
+      "fullbotuvungonthitoeic"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/file/d/1lZ0NKDWByOHGxR9hifXQ7534KAKAm5g2/view?fbclid"
+  },
+  {
+    "id": 267,
+    "name": "Hướng dẫn reading IELTS chuyên sâu",
+    "keywords": [
+      "huongdanreadingielts"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://docs.google.com/document/d/1aVFuJn_lJkjU1GVqRFl1cavZLzjZvwpCmc2w9NXOgHM/edit?tab=t.0"
+  },
+  {
+    "id": 268,
+    "name": "Tổng hợp EST 2020-2024",
+    "keywords": [
+      "est2020-2024"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1eAO4HgUpyZ0eK-6RwARqMz8Dia9X8PzP?fbclid"
+  },
+  {
+    "id": 269,
+    "name": "Nâng cấp vốn từ nâng tầm diễn đạt",
+    "keywords": [
+      "nangtamvontu"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Văn học",
+    "drive_url": "https://docs.google.com/document/d/14OLiXuLJ6_Wln24wl6q3sktKTN2JG64v/edit?rtpof=true&sd=true"
+  },
+  {
+    "id": 270,
+    "name": "Công thức viết văn 9+",
+    "keywords": [
+      "congthucvietvan9+"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Văn học",
+    "drive_url": "https://drive.google.com/drive/folders/1x-F8ekXE6IZHjlbPLHRBFwOy4pSteAZ9"
+  },
+  {
+    "id": 271,
+    "name": "English grammar master in 30 days",
+    "keywords": [
+      "Englishgrammarmasterin30days"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/file/d/1hx0q6wOsrrDCrc7r9VDojmXK_5tiAyig/view"
+  },
+  {
+    "id": 272,
+    "name": "TRỌN BỘ IPA+NGỮ ÂM+PHÁT ÂM+TRỌNG ÂM+ĐÁNH VẦN",
+    "keywords": [
+      "trongboipa"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1cCNwg7nnOZtUOeXgylcBe3zhG5kt0rup"
+  },
+  {
+    "id": 273,
+    "name": "VOL 9 TEST 1 PASSAGE 1",
+    "keywords": [
+      "vol9test1passage1"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1nfm6aZUeXhmRXvowEx74bT5VKjs8Ui-mJihbGUBfruo/edit?gid=365208285#gid=365208285"
+  },
+  {
+    "id": 274,
+    "name": "Huy_Forum_IELTS_Marathon_21_Day_Companion_Student_Book.pdf",
+    "keywords": [
+      "Huyforumieltsmarathon"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/file/d/1HrQ2hdgtsdf-nv6xoD0oTCPEFgNeruaM/view"
+  },
+  {
+    "id": 275,
+    "name": "CT làm văn",
+    "keywords": [
+      "ctlamvan"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Văn học",
+    "drive_url": "https://drive.google.com/drive/folders/1vl3LYk06BEGcTwLJf_Y9e7tKU4E4wNYf"
+  },
+  {
+    "id": 276,
+    "name": "Tổng hợp tài liệu văn tất cả các cấp",
+    "keywords": [
+      "tonghoptailieuvancaccap"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Văn học",
+    "drive_url": "https://drive.google.com/drive/folders/1e3ZlgF9_D-hGZZqzKIRBHQ7X-iqdISD4"
+  },
+  {
+    "id": 277,
+    "name": "IELTS Writing",
+    "keywords": [
+      "IELTSWriting"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/10eePhUHg-aKmhRDsI75wVpsZa8AphvQd"
+  },
+  {
+    "id": 278,
+    "name": "IELTS Cambridge",
+    "keywords": [
+      "IELTSCambridge"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1IqZTw0J1jt1QySaZN4mjDOesufCDzuvf"
+  },
+  {
+    "id": 279,
+    "name": "IELTS Reading",
+    "keywords": [
+      "IELTSReading"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1zgMqtg2M7rvCiq9McYKWhNbZPFqeOD9h"
+  },
+  {
+    "id": 280,
+    "name": "Sách ZIM + IELTS FIGHTER",
+    "keywords": [
+      "sachzimieltsfighter"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1UXne5XbovhrPQVccmOrnKcUpT3MAf9uv"
+  },
+  {
+    "id": 281,
+    "name": "ALL ABOUT SPEAKING - THE IELTS FOLIAGE",
+    "keywords": [
+      "allaboutspeaking"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://docs.google.com/spreadsheets/d/14JzHflPuGhdyiwdiBXNpN0--CbEqCRBImRlNz2ZqFMo/edit?gid=768305835#gid=768305835"
+  },
+  {
+    "id": 282,
+    "name": "TỔNG HỢP BÀI GIẢNG KHÓA [T] TỔNG ÔN",
+    "keywords": [
+      "tonghopbaogiangkhoaTtonghop"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Toán học",
+    "drive_url": "https://docs.google.com/spreadsheets/d/1-tlD7M4ANsV14tsA5IBrRdzZIhBq6qKC31E9wJvKavg/edit?gid=0#gid=0"
+  },
+  {
+    "id": 283,
+    "name": "MASTERING ENGLISH GRAMMAR",
+    "keywords": [
+      "masteringenggrammar"
+    ],
+    "type": "Drive",
+    "size": "114 KB",
+    "category": "Học tiếng anh",
+    "drive_url": "https://drive.google.com/drive/folders/1t97XAcT6idCAQsjbWjzFnrITkwbR1jJh"
   }
 ]
