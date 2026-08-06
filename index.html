@@ -343,19 +343,6 @@ cursor: pointer;
 transition: background 0.15s;
 }
 .btn-confirm:hover { background: var(--green-dark); }
-.btn-confirm:disabled {
-background: var(--border);
-color: var(--muted);
-cursor: not-allowed;
-}
-.btn-confirm:disabled:hover { background: var(--border); }
-
-.aff-btn.done {
-border-color: var(--green);
-background: var(--green-light);
-}
-.aff-btn.done .aff-logo { background: var(--green); }
-.aff-btn.done .aff-arrow { color: var(--green-dark); }
 
 /* ── TOAST ── */
 .toast {
@@ -429,17 +416,17 @@ Thử tìm:
 <button class="popup-close" onclick="closePopup()">✕</button>
 </div>
 <div class="popup-body">
-<p>Tài liệu này miễn phí 100%. Lưu ý: Mở link bằng trình duyệt để không bị gián đoạn. Bạn xem giúp mình 1 sản phẩm trên Shopee (bước 1), sau đó nút tải tài liệu bên dưới sẽ mở khóa (bước 2) 🙏</p>
-<a class="aff-btn" id="affLink" href="#" target="_blank" rel="noopener" onclick="onAffClick()">
+<p>Lưu ý Mở tài liệu bằng trình duyệt để không bị gián đoạn. Tài liệu này miễn phí 100%. Bạn có thể ủng hộ mình bằng cách ghé xem 1 sản phẩm trên Shopee trước nhé 🙏</p>
+<a class="aff-btn" id="affLink" href="#" target="_blank" rel="noopener">
 <div class="aff-logo">🛒</div>
 <div class="aff-text">
-<strong id="affLinkText">Bước 1: Xem trên Shopee</strong>
+<strong>Xem ngay trên Shopee</strong>
 </div>
 <span class="aff-arrow">→</span>
 </a>
 </div>
 <div class="popup-footer">
-<button class="btn-confirm" id="btnConfirm" disabled onclick="doDownload()">🔒 Bước 2: Xem trước Shopee để mở khóa</button>
+<button class="btn-confirm" onclick="doDownloadFromAff()">Xem Shopee → Tải file</button>
 </div>
 </div>
 </div>
@@ -447,7 +434,7 @@ Thử tìm:
 <div class="toast" id="toast">⬇ Đang mở file tải xuống...</div>
 
 <script>
-const AFFILIATE_URL = 'https://s.shopee.vn/6VMnLqBOxJ';
+const AFFILIATE_URL = 'https://s.shopee.vn/5fnjYxY87L';
 
 let templates = [];
 let currentItem = null;
@@ -516,14 +503,6 @@ currentItem = templates.find(t => t.id === id);
 if (!currentItem) return;
 document.getElementById('popupTitle').textContent = currentItem.name;
 document.getElementById('affLink').href = AFFILIATE_URL;
-
-// reset về trạng thái khóa mỗi lần mở popup
-document.getElementById('affLink').classList.remove('done');
-document.getElementById('affLinkText').textContent = 'Bước 1: Xem trên Shopee';
-const btn = document.getElementById('btnConfirm');
-btn.disabled = true;
-btn.textContent = '🔒 Bước 2: Xem trước Shopee để mở khóa';
-
 document.getElementById('overlay').classList.add('show');
 }
 
@@ -531,20 +510,19 @@ function closePopup() {
 document.getElementById('overlay').classList.remove('show');
 }
 
-// Bấm nút Shopee: mở Shopee và mở khóa nút tải tài liệu bên dưới
-function onAffClick() {
-document.getElementById('affLink').classList.add('done');
-document.getElementById('affLinkText').textContent = '✓ Đã xem Shopee';
-const btn = document.getElementById('btnConfirm');
-btn.disabled = false;
-btn.textContent = 'Bước 2: Xem tài liệu';
+function doDownload() {
+closePopup();
+if (currentItem) window.open(currentItem.drive_url, '_blank');
+showToast();
 }
 
-function doDownload() {
-if (!currentItem) return;
+function doDownloadFromAff() {
+window.open(AFFILIATE_URL, '_blank');
 closePopup();
-window.open(currentItem.drive_url, '_blank');
+setTimeout(() => {
+if (currentItem) window.open(currentItem.drive_url, '_blank');
 showToast();
+}, 800);
 }
 
 function showToast() {
